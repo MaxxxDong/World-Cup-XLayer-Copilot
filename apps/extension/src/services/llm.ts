@@ -146,10 +146,11 @@ export async function testLLMConnection(
     });
 
     if (!response.ok) {
+      const details = summarizeResponseText(await response.text());
       return {
         ok: false,
         status: "unavailable",
-        message: `Model test failed with HTTP ${response.status}. Check Base URL, API key, and model.`,
+        message: `Model test failed with HTTP ${response.status}. Check Base URL, API key, and model. Provider response: ${details}.`,
         httpStatus: response.status,
         testedAt
       };
@@ -221,7 +222,7 @@ function buildConnectionTestMessages(mode: "text" | "vision", prompt: string): C
           {
             type: "image_url",
             image_url: {
-              url: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMB/av8X7sAAAAASUVORK5CYII="
+              url: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAYElEQVR42u3QAQ0AAAwCIPuX1hzfIQLpcxEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQLuG0bQw7Ko2TvAAAAAAElFTkSuQmCC"
             }
           }
         ]

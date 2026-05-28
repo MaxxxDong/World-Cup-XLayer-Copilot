@@ -164,10 +164,21 @@ describe("testLLMConnection", () => {
       { type: "text", text: expect.stringContaining("image") },
       expect.objectContaining({ type: "image_url" })
     ]);
+    const imageUrl = body.messages[1].content[1].image_url.url;
+    expect(imageUrl).toMatch(/^data:image\/png;base64,/);
+    expect(readPngDimensions(imageUrl)).toEqual({ width: 64, height: 64 });
   });
 
   it("reports HTTP failures as unavailable", async () => {
-    vi.stubGlobal("fetch", vi.fn().mockResolvedValue(new Response("bad key", { status: 401 })));
+    vi.stubGlobal(
+      "fetch",
+      vi.fn().mockResolvedValue(
+        new Response(JSON.stringify({ error: { message: "bad key" } }), {
+          status: 401,
+          headers: { "content-type": "application/json" }
+        })
+      )
+    );
 
     const result = await testLLMConnection(baseSettings);
 
@@ -175,6 +186,8 @@ describe("testLLMConnection", () => {
     expect(result.status).toBe("unavailable");
     expect(result.httpStatus).toBe(401);
     expect(result.message).toContain("HTTP 401");
+    expect(result.message).toContain("Provider response");
+    expect(result.message).toContain("bad key");
   });
 
   it("reports non-JSON model responses as endpoint configuration errors", async () => {
@@ -197,6 +210,15 @@ describe("testLLMConnection", () => {
     expect(result.message).toContain("<!doctype html>");
   });
 });
+
+function readPngDimensions(dataUrl: string): { width: number; height: number } {
+  const encoded = dataUrl.replace(/^data:image\/png;base64,/, "");
+  const png = Buffer.from(encoded, "base64");
+  return {
+    width: png.readUInt32BE(16),
+    height: png.readUInt32BE(20)
+  };
+}
 
 describe("runMatchAnalysis", () => {
   afterEach(async () => {
