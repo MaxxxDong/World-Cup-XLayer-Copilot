@@ -24,6 +24,10 @@
 
 ## 本地开发
 
+普通体验不需要本地构建。请直接下载 GitHub Release 中的 `World-Cup-XLayer-Copilot-extension.zip`，解压后在 Chrome `Load unpacked` 里选择解压目录。
+
+下面命令只给需要审计、修改或重新打包插件的开发者使用：
+
 ```powershell
 npm install
 npm run lint
@@ -42,11 +46,13 @@ npm run check:extension
 
 ## Chrome 加载
 
-1. 运行 `npm run build`。
+1. 下载并解压 `World-Cup-XLayer-Copilot-extension.zip`。
 2. 打开 `chrome://extensions`。
 3. 开启 Developer Mode。
 4. 点击 `Load unpacked`。
-5. 选择本仓库下的 `apps/extension/dist`。
+5. 选择解压后的插件目录。
+
+如果你是开发者并且刚刚运行了 `npm run build`，也可以选择本仓库下的 `apps/extension/dist`。
 
 ## 隐私和边界
 

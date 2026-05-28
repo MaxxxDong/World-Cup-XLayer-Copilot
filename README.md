@@ -1,6 +1,6 @@
 # World-Cup-XLayer-Copilot
 
-World-Cup-XLayer-Copilot 是一个轻量 Chrome 插件 + X Layer Dapp 项目。它面向世界杯观赛场景：用户一边看比赛、回放、集锦或赛事页面，一边让 AI 帮忙理解局面、球员、解说和市场信号；当用户想行动时，再跳转到 X Layer Dapp，通过自己的钱包完成链上操作。
+World-Cup-XLayer-Copilot 是一个面向世界杯观赛场景的轻量 Chrome 插件。用户一边看比赛、回放、集锦或赛事页面，一边让 AI 帮忙理解局面、球员、解说和市场信号；当用户想行动时，再从插件跳转到已部署的 X Layer Dapp，通过自己的钱包完成链上操作。
 
 这个项目不是单纯的预测市场页面，也不是单纯的 AI 聊天框。它把三件事连在一起：
 
@@ -28,6 +28,7 @@ OKX X Cup 要求项目围绕世界杯，在 X Layer 上建设，并鼓励预测�
 
 ## 当前 Demo
 
+- Chrome 插件下载：`https://github.com/MaxxxDong/World-Cup-XLayer-Copilot/releases/latest/download/World-Cup-XLayer-Copilot-extension.zip`
 - Dapp: `http://kr.maxfugui.top/`
 - X Layer contract: `0xA486558db7f0d0e0C9F018e64Ecc737EFA12ade3`
 - Verified source: `https://www.oklink.com/zh-hans/x-layer/evm/address/0xA486558db7f0d0e0C9F018e64Ecc737EFA12ade3/contract`
@@ -47,48 +48,33 @@ verification/        合约验证辅助文件
 docs/                架构、市场规则、Demo 和模型供应商说明
 ```
 
-## 快速运行
+## 如何体验
 
-安装依赖：
+评委和普通用户不需要构建 Dapp，也不需要运行本仓库代码。Dapp 已经在线部署，Chrome 插件以 Release zip 的形式提供。
 
-```bash
+1. 下载 Chrome 插件包：`World-Cup-XLayer-Copilot-extension.zip`
+2. 解压到本地目录。
+3. 打开 Chrome 的 `chrome://extensions`。
+4. 开启 Developer Mode。
+5. 点击 `Load unpacked`。
+6. 选择刚才解压出来的插件目录。
+7. 打开世界杯赛事页、FIFA 页面、集锦或数据页，点击插件开始体验。
+
+插件里的 X Layer 按钮会打开线上 Dapp：`http://kr.maxfugui.top/`。钱包连接、授权和链上交易都在这个线上 Dapp 中完成。
+
+## 开发者源码验证
+
+下面命令只面向想审计或二次开发源码的开发者。黑客松评审体验产品时不需要执行这些命令。
+
+```powershell
 npm install
 npm install --prefix apps/extension
-```
-
-检查合约和主工程：
-
-```bash
 npm run compile
 npm test
 npx tsc --noEmit
-```
-
-运行 Dapp：
-
-```bash
-npm run dev:web
-```
-
-构建 Dapp：
-
-```bash
-npm run build:web
-```
-
-构建 Chrome 插件：
-
-```bash
 npm run build:extension
 npm run check:extension
 ```
-
-本地加载插件：
-
-1. 打开 `chrome://extensions`。
-2. 开启 Developer Mode。
-3. 点击 `Load unpacked`。
-4. 选择 `apps/extension/dist`。
 
 ## 使用自己的模型和数据 Key
 
