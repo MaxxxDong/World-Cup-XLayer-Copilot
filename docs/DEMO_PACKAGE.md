@@ -7,7 +7,6 @@
 - Dapp: `http://kr.maxfugui.top/`
 - First-match deep link: `http://kr.maxfugui.top/?matchId=wc-2026-001-mex-rsa&outcome=teamA`
 - Chrome extension source: `apps/extension`
-- Pitch: `docs/PITCH.md`
 - Contract: `0xA486558db7f0d0e0C9F018e64Ecc737EFA12ade3`
 - Verified source: `https://www.oklink.com/zh-hans/x-layer/evm/address/0xA486558db7f0d0e0C9F018e64Ecc737EFA12ade3/contract`
 

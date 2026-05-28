@@ -44,8 +44,7 @@ scripts/             数据导出、合约交互和维护脚本
 data/                比赛、市场和参考数据
 deployments/         公开部署地址和交易 metadata
 verification/        合约验证辅助文件
-docs/                产品、架构、规则、Demo 和黑客松提交材料
-marketing/           Demo 视频、口播稿、海报和社媒文案
+docs/                架构、市场规则、Demo 和模型供应商说明
 ```
 
 ## 快速运行
@@ -111,14 +110,10 @@ npm run check:extension
 
 ## 文档
 
-- [产品卖点](docs/PITCH.md)
-- [黑客松提交材料](docs/HACKATHON_SUBMISSION.md)
 - [Demo 包](docs/DEMO_PACKAGE.md)
-- [产品规格](docs/PRODUCT_SPEC.md)
 - [架构说明](docs/ARCHITECTURE.md)
 - [市场规则](docs/MARKET_RULES.md)
 - [模型供应商预设](docs/PROVIDER_PRESETS.md)
-- [OKX / X Layer 知识库](docs/OKX_KNOWLEDGE_BASE.md)
 
 ## License
 
