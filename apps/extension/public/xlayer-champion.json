@@ -1,0 +1,250 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-05-28T02:19:21.183Z",
+  "source": {
+    "provider": "External winner-market reference",
+    "updatedAt": "2026-05-28T02:19:12.900195Z"
+  },
+  "entries": [
+    {
+      "team": "Spain",
+      "probability": 0.1725,
+      "oddsBps": 57971
+    },
+    {
+      "team": "France",
+      "probability": 0.1695,
+      "oddsBps": 58997
+    },
+    {
+      "team": "England",
+      "probability": 0.1115,
+      "oddsBps": 89686
+    },
+    {
+      "team": "Portugal",
+      "probability": 0.1035,
+      "oddsBps": 96618
+    },
+    {
+      "team": "Brazil",
+      "probability": 0.0935,
+      "oddsBps": 106952
+    },
+    {
+      "team": "Argentina",
+      "probability": 0.0835,
+      "oddsBps": 119760
+    },
+    {
+      "team": "Germany",
+      "probability": 0.0515,
+      "oddsBps": 194175
+    },
+    {
+      "team": "Netherlands",
+      "probability": 0.0375,
+      "oddsBps": 266667
+    },
+    {
+      "team": "Norway",
+      "probability": 0.0255,
+      "oddsBps": 392157
+    },
+    {
+      "team": "Japan",
+      "probability": 0.0185,
+      "oddsBps": 540541
+    },
+    {
+      "team": "Colombia",
+      "probability": 0.0175,
+      "oddsBps": 571429
+    },
+    {
+      "team": "Belgium",
+      "probability": 0.0175,
+      "oddsBps": 571429
+    },
+    {
+      "team": "Morocco",
+      "probability": 0.0145,
+      "oddsBps": 689655
+    },
+    {
+      "team": "Switzerland",
+      "probability": 0.0115,
+      "oddsBps": 869565
+    },
+    {
+      "team": "United States",
+      "probability": 0.0115,
+      "oddsBps": 869565
+    },
+    {
+      "team": "Uruguay",
+      "probability": 0.0105,
+      "oddsBps": 952381
+    },
+    {
+      "team": "Mexico",
+      "probability": 0.0105,
+      "oddsBps": 952381
+    },
+    {
+      "team": "Croatia",
+      "probability": 0.0085,
+      "oddsBps": 1176471
+    },
+    {
+      "team": "Ecuador",
+      "probability": 0.0075,
+      "oddsBps": 1333333
+    },
+    {
+      "team": "Turkey",
+      "probability": 0.0065,
+      "oddsBps": 1538462
+    },
+    {
+      "team": "Senegal",
+      "probability": 0.0065,
+      "oddsBps": 1538462
+    },
+    {
+      "team": "Austria",
+      "probability": 0.0055,
+      "oddsBps": 1818182
+    },
+    {
+      "team": "Sweden",
+      "probability": 0.0055,
+      "oddsBps": 1818182
+    },
+    {
+      "team": "Canada",
+      "probability": 0.0035,
+      "oddsBps": 2857143
+    },
+    {
+      "team": "South Korea",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Ghana",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Bosnia-Herzegovina",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Paraguay",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Scotland",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Ivory Coast",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Czechia",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Egypt",
+      "probability": 0.0025,
+      "oddsBps": 4000000
+    },
+    {
+      "team": "Iran",
+      "probability": 0.0015,
+      "oddsBps": 6666667
+    },
+    {
+      "team": "Algeria",
+      "probability": 0.0015,
+      "oddsBps": 6666667
+    },
+    {
+      "team": "Tunisia",
+      "probability": 0.0015,
+      "oddsBps": 6666667
+    },
+    {
+      "team": "Australia",
+      "probability": 0.0015,
+      "oddsBps": 6666667
+    },
+    {
+      "team": "New Zealand",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Haiti",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Jordan",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Curaçao",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Uzbekistan",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Panama",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Iraq",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "South Africa",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "DR Congo",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Cape Verde",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Qatar",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    },
+    {
+      "team": "Saudi Arabia",
+      "probability": 0.0005,
+      "oddsBps": 20000000
+    }
+  ]
+}

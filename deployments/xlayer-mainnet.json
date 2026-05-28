@@ -1,0 +1,15 @@
+{
+  "project": "world-cup-xlayer-copilot",
+  "network": "xlayer-mainnet",
+  "chainId": 196,
+  "contractName": "WorldCupTriMarket",
+  "contractAddress": "0xA486558db7f0d0e0C9F018e64Ecc737EFA12ade3",
+  "stakeToken": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+  "feeRecipient": "0xc3bfa68f5318bc51cbd579fad013e885d8568038",
+  "feeBps": 0,
+  "deployer": "0xC3bFa68F5318bc51cbd579FAd013E885D8568038",
+  "owner": "0xc3bfa68f5318bc51cbd579fad013e885d8568038",
+  "deploymentTxHash": "0x75a2b5766fae8666579e1fe6d283f981709fb6d381d1e19dbda3e450a7c01b52",
+  "deploymentBlockNumber": 61134298,
+  "deployedAt": "2026-05-27T17:35:35.279Z"
+}

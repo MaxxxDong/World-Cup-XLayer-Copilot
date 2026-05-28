@@ -1,0 +1,2106 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-05-28T02:19:21.183Z",
+  "scheduleSource": {
+    "authority": "FIFA official result and match schedule",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+    "structuredExtractionUrl": "https://worldcuply.com/schedule.html"
+  },
+  "referenceOddsSource": {
+    "provider": "Polymarket Gamma API",
+    "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+    "gammaUrl": "https://gamma-api.polymarket.com/public-search?q=2026%20FIFA%20World%20Cup%20Winner&limit=10",
+    "updatedAt": "2026-05-28T02:19:12.900195Z",
+    "method": "Champion winner probabilities are used as team strength inputs; draw probability is deterministic by strength balance."
+  },
+  "matches": [
+    {
+      "matchId": "wc-2026-001-mex-rsa",
+      "officialMatchNumber": 1,
+      "teamA": "Mexico",
+      "teamB": "South Africa",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-11T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Mexico South Africa 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.774,
+        "draw": 0.1891,
+        "teamB": 0.0369
+      },
+      "referenceOddsBps": {
+        "teamA": 12920,
+        "draw": 52882,
+        "teamB": 271003
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-002-south-korea-czech-republic",
+      "officialMatchNumber": 2,
+      "teamA": "South Korea",
+      "teamB": "Czech Republic",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-12T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "South Korea Czech Republic 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.4062,
+        "draw": 0.2689,
+        "teamB": 0.3249
+      },
+      "referenceOddsBps": {
+        "teamA": 24618,
+        "draw": 37189,
+        "teamB": 30779
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-007-canada-bosnia-and-herzegovina",
+      "officialMatchNumber": 3,
+      "teamA": "Canada",
+      "teamB": "Bosnia & Herzegovina",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-12T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Canada Bosnia & Herzegovina 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.4755,
+        "draw": 0.2527,
+        "teamB": 0.2717
+      },
+      "referenceOddsBps": {
+        "teamA": 21030,
+        "draw": 39573,
+        "teamB": 36805
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-004-united-states-paraguay",
+      "officialMatchNumber": 4,
+      "teamA": "United States",
+      "teamB": "Paraguay",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-13T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "United States Paraguay 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6442,
+        "draw": 0.2157,
+        "teamB": 0.1401
+      },
+      "referenceOddsBps": {
+        "teamA": 15523,
+        "draw": 46361,
+        "teamB": 71378
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-014-haiti-scotland",
+      "officialMatchNumber": 5,
+      "teamA": "Haiti",
+      "teamB": "Scotland",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-14T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Haiti Scotland 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1311,
+        "draw": 0.2133,
+        "teamB": 0.6556
+      },
+      "referenceOddsBps": {
+        "teamA": 76278,
+        "draw": 46882,
+        "teamB": 15253
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-020-australia-turkey",
+      "officialMatchNumber": 6,
+      "teamA": "Australia",
+      "teamB": "Turkey",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-14T04:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Australia Turkey 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1467,
+        "draw": 0.2175,
+        "teamB": 0.6358
+      },
+      "referenceOddsBps": {
+        "teamA": 68166,
+        "draw": 45977,
+        "teamB": 15728
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-013-bra-mar",
+      "officialMatchNumber": 7,
+      "teamA": "Brazil",
+      "teamB": "Morocco",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-13T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Brazil Morocco 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6867,
+        "draw": 0.2069,
+        "teamB": 0.1065
+      },
+      "referenceOddsBps": {
+        "teamA": 14562,
+        "draw": 48333,
+        "teamB": 93897
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-008-qatar-switzerland",
+      "officialMatchNumber": 8,
+      "teamA": "Qatar",
+      "teamB": "Switzerland",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-13T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Qatar Switzerland 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0338,
+        "draw": 0.1883,
+        "teamB": 0.7778
+      },
+      "referenceOddsBps": {
+        "teamA": 295858,
+        "draw": 53107,
+        "teamB": 12857
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-009-ivory-coast-ecuador",
+      "officialMatchNumber": 9,
+      "teamA": "Ivory Coast",
+      "teamB": "Ecuador",
+      "group": "Group E",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-14T23:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Ivory Coast Ecuador 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1925,
+        "draw": 0.23,
+        "teamB": 0.5775
+      },
+      "referenceOddsBps": {
+        "teamA": 51948,
+        "draw": 43478,
+        "teamB": 17316
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-025-germany-curacao",
+      "officialMatchNumber": 10,
+      "teamA": "Germany",
+      "teamB": "Curaçao",
+      "group": "Group E",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-14T17:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Germany Curaçao 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.8102,
+        "draw": 0.1819,
+        "teamB": 0.0079
+      },
+      "referenceOddsBps": {
+        "teamA": 12343,
+        "draw": 54975,
+        "teamB": 1265823
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-031-netherlands-japan",
+      "officialMatchNumber": 11,
+      "teamA": "Netherlands",
+      "teamB": "Japan",
+      "group": "Group F",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-14T20:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Netherlands Japan 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.5049,
+        "draw": 0.2461,
+        "teamB": 0.2491
+      },
+      "referenceOddsBps": {
+        "teamA": 19806,
+        "draw": 40634,
+        "teamB": 40145
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-012-sweden-tunisia",
+      "officialMatchNumber": 12,
+      "teamA": "Sweden",
+      "teamB": "Tunisia",
+      "group": "Group F",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-15T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Sweden Tunisia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6106,
+        "draw": 0.2229,
+        "teamB": 0.1665
+      },
+      "referenceOddsBps": {
+        "teamA": 16377,
+        "draw": 44863,
+        "teamB": 60060
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-013-saudi-arabia-uruguay",
+      "officialMatchNumber": 13,
+      "teamA": "Saudi Arabia",
+      "teamB": "Uruguay",
+      "group": "Group H",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-15T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Saudi Arabia Uruguay 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0369,
+        "draw": 0.1891,
+        "teamB": 0.774
+      },
+      "referenceOddsBps": {
+        "teamA": 271003,
+        "draw": 52882,
+        "teamB": 12920
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-014-spain-cape-verde",
+      "officialMatchNumber": 14,
+      "teamA": "Spain",
+      "teamB": "Cape Verde",
+      "group": "Group H",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-15T16:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Spain Cape Verde 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.8171,
+        "draw": 0.1806,
+        "teamB": 0.0024
+      },
+      "referenceOddsBps": {
+        "teamA": 12238,
+        "draw": 55371,
+        "teamB": 4166667
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-015-iran-new-zealand",
+      "officialMatchNumber": 15,
+      "teamA": "Iran",
+      "teamB": "New Zealand",
+      "group": "Group G",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-16T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Iran New Zealand 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.5775,
+        "draw": 0.23,
+        "teamB": 0.1925
+      },
+      "referenceOddsBps": {
+        "teamA": 17316,
+        "draw": 43478,
+        "teamB": 51948
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-016-belgium-egypt",
+      "officialMatchNumber": 16,
+      "teamA": "Belgium",
+      "teamB": "Egypt",
+      "group": "Group G",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-15T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Belgium Egypt 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6956,
+        "draw": 0.205,
+        "teamB": 0.0994
+      },
+      "referenceOddsBps": {
+        "teamA": 14376,
+        "draw": 48780,
+        "teamB": 100604
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-017-france-senegal",
+      "officialMatchNumber": 17,
+      "teamA": "France",
+      "teamB": "Senegal",
+      "group": "Group I",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-16T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "France Senegal 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7826,
+        "draw": 0.1874,
+        "teamB": 0.03
+      },
+      "referenceOddsBps": {
+        "teamA": 12778,
+        "draw": 53362,
+        "teamB": 333333
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-018-iraq-norway",
+      "officialMatchNumber": 18,
+      "teamA": "Iraq",
+      "teamB": "Norway",
+      "group": "Group I",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-16T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Iraq Norway 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0157,
+        "draw": 0.1838,
+        "teamB": 0.8005
+      },
+      "referenceOddsBps": {
+        "teamA": 636943,
+        "draw": 54407,
+        "teamB": 12492
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-019-argentina-algeria",
+      "officialMatchNumber": 19,
+      "teamA": "Argentina",
+      "teamB": "Algeria",
+      "group": "Group J",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-17T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Argentina Algeria 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.8021,
+        "draw": 0.1835,
+        "teamB": 0.0144
+      },
+      "referenceOddsBps": {
+        "teamA": 12467,
+        "draw": 54496,
+        "teamB": 694444
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-020-austria-jordan",
+      "officialMatchNumber": 20,
+      "teamA": "Austria",
+      "teamB": "Jordan",
+      "group": "Group J",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-17T04:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Austria Jordan 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7364,
+        "draw": 0.1967,
+        "teamB": 0.0669
+      },
+      "referenceOddsBps": {
+        "teamA": 13580,
+        "draw": 50839,
+        "teamB": 149477
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-021-ghana-panama",
+      "officialMatchNumber": 21,
+      "teamA": "Ghana",
+      "teamB": "Panama",
+      "group": "Group L",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-17T23:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Ghana Panama 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6556,
+        "draw": 0.2133,
+        "teamB": 0.1311
+      },
+      "referenceOddsBps": {
+        "teamA": 15253,
+        "draw": 46882,
+        "teamB": 76278
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-022-england-croatia",
+      "officialMatchNumber": 22,
+      "teamA": "England",
+      "teamB": "Croatia",
+      "group": "Group L",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-17T20:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "England Croatia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7488,
+        "draw": 0.1942,
+        "teamB": 0.0571
+      },
+      "referenceOddsBps": {
+        "teamA": 13355,
+        "draw": 51493,
+        "teamB": 175131
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-023-portugal-dr-congo",
+      "officialMatchNumber": 23,
+      "teamA": "Portugal",
+      "teamB": "DR Congo",
+      "group": "Group K",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-17T17:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Portugal DR Congo 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.8151,
+        "draw": 0.181,
+        "teamB": 0.0039
+      },
+      "referenceOddsBps": {
+        "teamA": 12268,
+        "draw": 55249,
+        "teamB": 2564103
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-024-uzbekistan-colombia",
+      "officialMatchNumber": 24,
+      "teamA": "Uzbekistan",
+      "teamB": "Colombia",
+      "group": "Group K",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-18T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Uzbekistan Colombia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0226,
+        "draw": 0.1856,
+        "teamB": 0.7918
+      },
+      "referenceOddsBps": {
+        "teamA": 442478,
+        "draw": 53879,
+        "teamB": 12629
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-025-czech-republic-south-africa",
+      "officialMatchNumber": 25,
+      "teamA": "Czech Republic",
+      "teamB": "South Africa",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-18T16:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Czech Republic South Africa 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.624,
+        "draw": 0.22,
+        "teamB": 0.156
+      },
+      "referenceOddsBps": {
+        "teamA": 16026,
+        "draw": 45455,
+        "teamB": 64103
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-026-switzerland-bosnia-and-herzegovina",
+      "officialMatchNumber": 26,
+      "teamA": "Switzerland",
+      "teamB": "Bosnia & Herzegovina",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-18T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Switzerland Bosnia & Herzegovina 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6733,
+        "draw": 0.2096,
+        "teamB": 0.1171
+      },
+      "referenceOddsBps": {
+        "teamA": 14852,
+        "draw": 47710,
+        "teamB": 85397
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-027-canada-qatar",
+      "officialMatchNumber": 27,
+      "teamA": "Canada",
+      "teamB": "Qatar",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-18T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Canada Qatar 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6956,
+        "draw": 0.205,
+        "teamB": 0.0994
+      },
+      "referenceOddsBps": {
+        "teamA": 14376,
+        "draw": 48780,
+        "teamB": 100604
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-028-mexico-south-korea",
+      "officialMatchNumber": 28,
+      "teamA": "Mexico",
+      "teamB": "South Korea",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-19T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Mexico South Korea 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6312,
+        "draw": 0.2185,
+        "teamB": 0.1503
+      },
+      "referenceOddsBps": {
+        "teamA": 15843,
+        "draw": 45767,
+        "teamB": 66534
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-029-brazil-haiti",
+      "officialMatchNumber": 29,
+      "teamA": "Brazil",
+      "teamB": "Haiti",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-20T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Brazil Haiti 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.8146,
+        "draw": 0.1811,
+        "teamB": 0.0044
+      },
+      "referenceOddsBps": {
+        "teamA": 12276,
+        "draw": 55218,
+        "teamB": 2272727
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-030-scotland-morocco",
+      "officialMatchNumber": 30,
+      "teamA": "Scotland",
+      "teamB": "Morocco",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-19T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Scotland Morocco 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1163,
+        "draw": 0.2094,
+        "teamB": 0.6743
+      },
+      "referenceOddsBps": {
+        "teamA": 85985,
+        "draw": 47755,
+        "teamB": 14830
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-031-turkey-paraguay",
+      "officialMatchNumber": 31,
+      "teamA": "Turkey",
+      "teamB": "Paraguay",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-20T03:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Turkey Paraguay 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.5521,
+        "draw": 0.2356,
+        "teamB": 0.2123
+      },
+      "referenceOddsBps": {
+        "teamA": 18113,
+        "draw": 42445,
+        "teamB": 47103
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-032-united-states-australia",
+      "officialMatchNumber": 32,
+      "teamA": "United States",
+      "teamB": "Australia",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-19T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "United States Australia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.705,
+        "draw": 0.2031,
+        "teamB": 0.092
+      },
+      "referenceOddsBps": {
+        "teamA": 14184,
+        "draw": 49237,
+        "teamB": 108696
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-033-germany-ivory-coast",
+      "officialMatchNumber": 33,
+      "teamA": "Germany",
+      "teamB": "Ivory Coast",
+      "group": "Group E",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-20T20:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Germany Ivory Coast 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7732,
+        "draw": 0.1893,
+        "teamB": 0.0375
+      },
+      "referenceOddsBps": {
+        "teamA": 12933,
+        "draw": 52826,
+        "teamB": 266667
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-034-ecuador-curacao",
+      "officialMatchNumber": 34,
+      "teamA": "Ecuador",
+      "teamB": "Curaçao",
+      "group": "Group E",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-21T00:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Ecuador Curaçao 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.757,
+        "draw": 0.1925,
+        "teamB": 0.0505
+      },
+      "referenceOddsBps": {
+        "teamA": 13210,
+        "draw": 51948,
+        "teamB": 198020
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-035-netherlands-sweden",
+      "officialMatchNumber": 35,
+      "teamA": "Netherlands",
+      "teamB": "Sweden",
+      "group": "Group F",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-20T17:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Netherlands Sweden 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6928,
+        "draw": 0.2056,
+        "teamB": 0.1016
+      },
+      "referenceOddsBps": {
+        "teamA": 14434,
+        "draw": 48638,
+        "teamB": 98425
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-036-tunisia-japan",
+      "officialMatchNumber": 36,
+      "teamA": "Tunisia",
+      "teamB": "Japan",
+      "group": "Group F",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-21T04:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Tunisia Japan 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0604,
+        "draw": 0.195,
+        "teamB": 0.7446
+      },
+      "referenceOddsBps": {
+        "teamA": 165563,
+        "draw": 51282,
+        "teamB": 13430
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-037-uruguay-cape-verde",
+      "officialMatchNumber": 37,
+      "teamA": "Uruguay",
+      "teamB": "Cape Verde",
+      "group": "Group H",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-21T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Uruguay Cape Verde 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.774,
+        "draw": 0.1891,
+        "teamB": 0.0369
+      },
+      "referenceOddsBps": {
+        "teamA": 12920,
+        "draw": 52882,
+        "teamB": 271003
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-038-spain-saudi-arabia",
+      "officialMatchNumber": 38,
+      "teamA": "Spain",
+      "teamB": "Saudi Arabia",
+      "group": "Group H",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-21T16:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Spain Saudi Arabia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.8171,
+        "draw": 0.1806,
+        "teamB": 0.0024
+      },
+      "referenceOddsBps": {
+        "teamA": 12238,
+        "draw": 55371,
+        "teamB": 4166667
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-039-belgium-iran",
+      "officialMatchNumber": 39,
+      "teamA": "Belgium",
+      "teamB": "Iran",
+      "group": "Group G",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-21T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Belgium Iran 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7407,
+        "draw": 0.1958,
+        "teamB": 0.0635
+      },
+      "referenceOddsBps": {
+        "teamA": 13501,
+        "draw": 51073,
+        "teamB": 157480
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-040-new-zealand-egypt",
+      "officialMatchNumber": 40,
+      "teamA": "New Zealand",
+      "teamB": "Egypt",
+      "group": "Group G",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-22T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "New Zealand Egypt 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1311,
+        "draw": 0.2133,
+        "teamB": 0.6556
+      },
+      "referenceOddsBps": {
+        "teamA": 76278,
+        "draw": 46882,
+        "teamB": 15253
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-041-norway-senegal",
+      "officialMatchNumber": 41,
+      "teamA": "Norway",
+      "teamB": "Senegal",
+      "group": "Group I",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-23T00:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Norway Senegal 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.6211,
+        "draw": 0.2206,
+        "teamB": 0.1583
+      },
+      "referenceOddsBps": {
+        "teamA": 16100,
+        "draw": 45331,
+        "teamB": 63171
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-042-france-iraq",
+      "officialMatchNumber": 42,
+      "teamA": "France",
+      "teamB": "Iraq",
+      "group": "Group I",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-22T21:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "France Iraq 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.817,
+        "draw": 0.1806,
+        "teamB": 0.0024
+      },
+      "referenceOddsBps": {
+        "teamA": 12240,
+        "draw": 55371,
+        "teamB": 4166667
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-043-argentina-austria",
+      "officialMatchNumber": 43,
+      "teamA": "Argentina",
+      "teamB": "Austria",
+      "group": "Group J",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-22T17:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Argentina Austria 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7577,
+        "draw": 0.1924,
+        "teamB": 0.0499
+      },
+      "referenceOddsBps": {
+        "teamA": 13198,
+        "draw": 51975,
+        "teamB": 200401
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-044-jordan-algeria",
+      "officialMatchNumber": 44,
+      "teamA": "Jordan",
+      "teamB": "Algeria",
+      "group": "Group J",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-23T03:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Jordan Algeria 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1925,
+        "draw": 0.23,
+        "teamB": 0.5775
+      },
+      "referenceOddsBps": {
+        "teamA": 51948,
+        "draw": 43478,
+        "teamB": 17316
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-045-england-ghana",
+      "officialMatchNumber": 45,
+      "teamA": "England",
+      "teamB": "Ghana",
+      "group": "Group L",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-23T20:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "England Ghana 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7977,
+        "draw": 0.1844,
+        "teamB": 0.0179
+      },
+      "referenceOddsBps": {
+        "teamA": 12536,
+        "draw": 54230,
+        "teamB": 558659
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-046-panama-croatia",
+      "officialMatchNumber": 46,
+      "teamA": "Panama",
+      "teamB": "Croatia",
+      "group": "Group L",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-23T23:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Panama Croatia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0449,
+        "draw": 0.1911,
+        "teamB": 0.764
+      },
+      "referenceOddsBps": {
+        "teamA": 222717,
+        "draw": 52329,
+        "teamB": 13089
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-047-portugal-uzbekistan",
+      "officialMatchNumber": 47,
+      "teamA": "Portugal",
+      "teamB": "Uzbekistan",
+      "group": "Group K",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-23T17:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Portugal Uzbekistan 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.8151,
+        "draw": 0.181,
+        "teamB": 0.0039
+      },
+      "referenceOddsBps": {
+        "teamA": 12268,
+        "draw": 55249,
+        "teamB": 2564103
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-048-colombia-dr-congo",
+      "officialMatchNumber": 48,
+      "teamA": "Colombia",
+      "teamB": "DR Congo",
+      "group": "Group K",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-24T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Colombia DR Congo 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7918,
+        "draw": 0.1856,
+        "teamB": 0.0226
+      },
+      "referenceOddsBps": {
+        "teamA": 12629,
+        "draw": 53879,
+        "teamB": 442478
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-049-scotland-brazil",
+      "officialMatchNumber": 49,
+      "teamA": "Scotland",
+      "teamB": "Brazil",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-24T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Scotland Brazil 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0212,
+        "draw": 0.1852,
+        "teamB": 0.7936
+      },
+      "referenceOddsBps": {
+        "teamA": 471698,
+        "draw": 53996,
+        "teamB": 12601
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-050-morocco-haiti",
+      "officialMatchNumber": 50,
+      "teamA": "Morocco",
+      "teamB": "Haiti",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-24T22:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Morocco Haiti 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7862,
+        "draw": 0.1867,
+        "teamB": 0.0271
+      },
+      "referenceOddsBps": {
+        "teamA": 12719,
+        "draw": 53562,
+        "teamB": 369004
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-051-switzerland-canada",
+      "officialMatchNumber": 51,
+      "teamA": "Switzerland",
+      "teamB": "Canada",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-24T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Switzerland Canada 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.5929,
+        "draw": 0.2267,
+        "teamB": 0.1804
+      },
+      "referenceOddsBps": {
+        "teamA": 16866,
+        "draw": 44111,
+        "teamB": 55432
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-052-bosnia-and-herzegovina-qatar",
+      "officialMatchNumber": 52,
+      "teamA": "Bosnia & Herzegovina",
+      "teamB": "Qatar",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-24T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Bosnia & Herzegovina Qatar 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.624,
+        "draw": 0.22,
+        "teamB": 0.156
+      },
+      "referenceOddsBps": {
+        "teamA": 16026,
+        "draw": 45455,
+        "teamB": 64103
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-053-czech-republic-mexico",
+      "officialMatchNumber": 53,
+      "teamA": "Czech Republic",
+      "teamB": "Mexico",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-25T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Czech Republic Mexico 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1261,
+        "draw": 0.212,
+        "teamB": 0.6619
+      },
+      "referenceOddsBps": {
+        "teamA": 79302,
+        "draw": 47170,
+        "teamB": 15108
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-054-south-africa-south-korea",
+      "officialMatchNumber": 54,
+      "teamA": "South Africa",
+      "teamB": "South Korea",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-25T01:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "South Africa South Korea 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1311,
+        "draw": 0.2133,
+        "teamB": 0.6556
+      },
+      "referenceOddsBps": {
+        "teamA": 76278,
+        "draw": 46882,
+        "teamB": 15253
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-055-curacao-ivory-coast",
+      "officialMatchNumber": 55,
+      "teamA": "Curaçao",
+      "teamB": "Ivory Coast",
+      "group": "Group E",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-25T20:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Curaçao Ivory Coast 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1311,
+        "draw": 0.2133,
+        "teamB": 0.6556
+      },
+      "referenceOddsBps": {
+        "teamA": 76278,
+        "draw": 46882,
+        "teamB": 15253
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-056-ecuador-germany",
+      "officialMatchNumber": 56,
+      "teamA": "Ecuador",
+      "teamB": "Germany",
+      "group": "Group E",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-25T20:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Ecuador Germany 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.101,
+        "draw": 0.2054,
+        "teamB": 0.6936
+      },
+      "referenceOddsBps": {
+        "teamA": 99010,
+        "draw": 48685,
+        "teamB": 14418
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-057-japan-sweden",
+      "officialMatchNumber": 57,
+      "teamA": "Japan",
+      "teamB": "Sweden",
+      "group": "Group F",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-25T23:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Japan Sweden 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.5968,
+        "draw": 0.2258,
+        "teamB": 0.1774
+      },
+      "referenceOddsBps": {
+        "teamA": 16756,
+        "draw": 44287,
+        "teamB": 56370
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-058-tunisia-netherlands",
+      "officialMatchNumber": 58,
+      "teamA": "Tunisia",
+      "teamB": "Netherlands",
+      "group": "Group F",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-25T23:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Tunisia Netherlands 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0312,
+        "draw": 0.1877,
+        "teamB": 0.7811
+      },
+      "referenceOddsBps": {
+        "teamA": 320513,
+        "draw": 53277,
+        "teamB": 12802
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-059-turkey-united-states",
+      "officialMatchNumber": 59,
+      "teamA": "Turkey",
+      "teamB": "United States",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-26T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Turkey United States 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.27,
+        "draw": 0.2522,
+        "teamB": 0.4777
+      },
+      "referenceOddsBps": {
+        "teamA": 37037,
+        "draw": 39651,
+        "teamB": 20934
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-060-paraguay-australia",
+      "officialMatchNumber": 60,
+      "teamA": "Paraguay",
+      "teamB": "Australia",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-26T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Paraguay Australia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.4656,
+        "draw": 0.255,
+        "teamB": 0.2794
+      },
+      "referenceOddsBps": {
+        "teamA": 21478,
+        "draw": 39216,
+        "teamB": 35791
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-061-norway-france",
+      "officialMatchNumber": 61,
+      "teamA": "Norway",
+      "teamB": "France",
+      "group": "Group I",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-26T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Norway France 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1038,
+        "draw": 0.2062,
+        "teamB": 0.69
+      },
+      "referenceOddsBps": {
+        "teamA": 96339,
+        "draw": 48497,
+        "teamB": 14493
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-062-senegal-iraq",
+      "officialMatchNumber": 62,
+      "teamA": "Senegal",
+      "teamB": "Iraq",
+      "group": "Group I",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-26T19:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Senegal Iraq 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.7482,
+        "draw": 0.1943,
+        "teamB": 0.0576
+      },
+      "referenceOddsBps": {
+        "teamA": 13365,
+        "draw": 51467,
+        "teamB": 173611
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-063-egypt-iran",
+      "officialMatchNumber": 63,
+      "teamA": "Egypt",
+      "teamB": "Iran",
+      "group": "Group G",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T03:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Egypt Iran 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.4656,
+        "draw": 0.255,
+        "teamB": 0.2794
+      },
+      "referenceOddsBps": {
+        "teamA": 21478,
+        "draw": 39216,
+        "teamB": 35791
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-064-new-zealand-belgium",
+      "officialMatchNumber": 64,
+      "teamA": "New Zealand",
+      "teamB": "Belgium",
+      "group": "Group G",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T03:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "New Zealand Belgium 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0226,
+        "draw": 0.1856,
+        "teamB": 0.7918
+      },
+      "referenceOddsBps": {
+        "teamA": 442478,
+        "draw": 53879,
+        "teamB": 12629
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-065-cape-verde-saudi-arabia",
+      "officialMatchNumber": 65,
+      "teamA": "Cape Verde",
+      "teamB": "Saudi Arabia",
+      "group": "Group H",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T00:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Cape Verde Saudi Arabia 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.36,
+        "draw": 0.28,
+        "teamB": 0.36
+      },
+      "referenceOddsBps": {
+        "teamA": 27778,
+        "draw": 35714,
+        "teamB": 27778
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-066-uruguay-spain",
+      "officialMatchNumber": 66,
+      "teamA": "Uruguay",
+      "teamB": "Spain",
+      "group": "Group H",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T00:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Uruguay Spain 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0464,
+        "draw": 0.1915,
+        "teamB": 0.7621
+      },
+      "referenceOddsBps": {
+        "teamA": 215517,
+        "draw": 52219,
+        "teamB": 13122
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-067-panama-england",
+      "officialMatchNumber": 67,
+      "teamA": "Panama",
+      "teamB": "England",
+      "group": "Group L",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T21:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Panama England 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0037,
+        "draw": 0.1809,
+        "teamB": 0.8155
+      },
+      "referenceOddsBps": {
+        "teamA": 2702703,
+        "draw": 55279,
+        "teamB": 12262
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-068-croatia-ghana",
+      "officialMatchNumber": 68,
+      "teamA": "Croatia",
+      "teamB": "Ghana",
+      "group": "Group L",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T21:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Croatia Ghana 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.5985,
+        "draw": 0.2255,
+        "teamB": 0.176
+      },
+      "referenceOddsBps": {
+        "teamA": 16708,
+        "draw": 44346,
+        "teamB": 56818
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-069-algeria-austria",
+      "officialMatchNumber": 69,
+      "teamA": "Algeria",
+      "teamB": "Austria",
+      "group": "Group J",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-28T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Algeria Austria 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1665,
+        "draw": 0.2229,
+        "teamB": 0.6106
+      },
+      "referenceOddsBps": {
+        "teamA": 60060,
+        "draw": 44863,
+        "teamB": 16377
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-070-jordan-argentina",
+      "officialMatchNumber": 70,
+      "teamA": "Jordan",
+      "teamB": "Argentina",
+      "group": "Group J",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-28T02:00:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Jordan Argentina 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.0049,
+        "draw": 0.1812,
+        "teamB": 0.8139
+      },
+      "referenceOddsBps": {
+        "teamA": 2040816,
+        "draw": 55188,
+        "teamB": 12287
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-071-colombia-portugal",
+      "officialMatchNumber": 71,
+      "teamA": "Colombia",
+      "teamB": "Portugal",
+      "group": "Group K",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T23:30:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "Colombia Portugal 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.1144,
+        "draw": 0.2089,
+        "teamB": 0.6767
+      },
+      "referenceOddsBps": {
+        "teamA": 87413,
+        "draw": 47870,
+        "teamB": 14778
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    },
+    {
+      "matchId": "wc-2026-072-dr-congo-uzbekistan",
+      "officialMatchNumber": 72,
+      "teamA": "DR Congo",
+      "teamB": "Uzbekistan",
+      "group": "Group K",
+      "stage": "Group Stage",
+      "closeTimeUtc": "2026-06-27T23:30:00.000Z",
+      "regularTimeOnly": true,
+      "settlementSource": "FIFA official result",
+      "polymarketQuery": "DR Congo Uzbekistan 2026 World Cup",
+      "referenceProbabilities": {
+        "teamA": 0.36,
+        "draw": 0.28,
+        "teamB": 0.36
+      },
+      "referenceOddsBps": {
+        "teamA": 27778,
+        "draw": 35714,
+        "teamB": 27778
+      },
+      "referenceOddsSource": {
+        "provider": "Polymarket Gamma API",
+        "eventSlug": "2026-fifa-world-cup-winner-595",
+        "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+        "updatedAt": "2026-05-28T02:19:12.900195Z",
+        "method": "Derived from Polymarket 2026 FIFA World Cup winner probabilities, with a deterministic draw adjustment."
+      }
+    }
+  ]
+}

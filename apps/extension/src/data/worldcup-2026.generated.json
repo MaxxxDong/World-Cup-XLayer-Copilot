@@ -1,0 +1,2033 @@
+[
+  {
+    "id": "2026-group-a-mexico-south-africa",
+    "kickoffUtc": "2026-06-11T19:00:00.000Z",
+    "team1": "Mexico",
+    "team2": "South Africa",
+    "teamAliases": {
+      "Mexico": [
+        "mexico",
+        "méxico",
+        "el tri"
+      ],
+      "South Africa": [
+        "south africa",
+        "bafana bafana"
+      ]
+    },
+    "group": "Group A",
+    "stage": "Group Stage",
+    "venue": "Estadio Azteca, Mexico City",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Mexico South Africa 2026 World Cup",
+      "Mexico vs South Africa",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-a-south-korea-czech-republic",
+    "kickoffUtc": "2026-06-12T02:00:00.000Z",
+    "team1": "South Korea",
+    "team2": "Czech Republic",
+    "teamAliases": {
+      "South Korea": [
+        "south korea",
+        "korea republic",
+        "korea"
+      ],
+      "Czech Republic": [
+        "czech republic",
+        "czechia"
+      ]
+    },
+    "group": "Group A",
+    "stage": "Group Stage",
+    "venue": "Estadio Akron, Guadalajara",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "South Korea Czech Republic 2026 World Cup",
+      "South Korea vs Czech Republic",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-b-canada-bosnia-and-herzegovina",
+    "kickoffUtc": "2026-06-12T19:00:00.000Z",
+    "team1": "Canada",
+    "team2": "Bosnia & Herzegovina",
+    "teamAliases": {
+      "Canada": [
+        "canada"
+      ],
+      "Bosnia & Herzegovina": [
+        "bosnia & herzegovina",
+        "bosnia",
+        "bosnia and herzegovina",
+        "bih"
+      ]
+    },
+    "group": "Group B",
+    "stage": "Group Stage",
+    "venue": "BMO Field, Toronto",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Canada Bosnia & Herzegovina 2026 World Cup",
+      "Canada vs Bosnia & Herzegovina",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-d-united-states-paraguay",
+    "kickoffUtc": "2026-06-13T01:00:00.000Z",
+    "team1": "United States",
+    "team2": "Paraguay",
+    "teamAliases": {
+      "United States": [
+        "united states",
+        "usa",
+        "usmnt",
+        "u.s."
+      ],
+      "Paraguay": [
+        "paraguay"
+      ]
+    },
+    "group": "Group D",
+    "stage": "Group Stage",
+    "venue": "SoFi Stadium, Los Angeles",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "United States Paraguay 2026 World Cup",
+      "United States vs Paraguay",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-c-haiti-scotland",
+    "kickoffUtc": "2026-06-14T01:00:00.000Z",
+    "team1": "Haiti",
+    "team2": "Scotland",
+    "teamAliases": {
+      "Haiti": [
+        "haiti"
+      ],
+      "Scotland": [
+        "scotland"
+      ]
+    },
+    "group": "Group C",
+    "stage": "Group Stage",
+    "venue": "Gillette Stadium, Boston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Haiti Scotland 2026 World Cup",
+      "Haiti vs Scotland",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-d-australia-turkey",
+    "kickoffUtc": "2026-06-14T04:00:00.000Z",
+    "team1": "Australia",
+    "team2": "Turkey",
+    "teamAliases": {
+      "Australia": [
+        "australia"
+      ],
+      "Turkey": [
+        "turkey"
+      ]
+    },
+    "group": "Group D",
+    "stage": "Group Stage",
+    "venue": "BC Place, Vancouver",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Australia Turkey 2026 World Cup",
+      "Australia vs Turkey",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-c-brazil-morocco",
+    "kickoffUtc": "2026-06-13T22:00:00.000Z",
+    "team1": "Brazil",
+    "team2": "Morocco",
+    "teamAliases": {
+      "Brazil": [
+        "brazil",
+        "seleção",
+        "selecao"
+      ],
+      "Morocco": [
+        "morocco"
+      ]
+    },
+    "group": "Group C",
+    "stage": "Group Stage",
+    "venue": "MetLife Stadium, New York / New Jersey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Brazil Morocco 2026 World Cup",
+      "Brazil vs Morocco",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-b-qatar-switzerland",
+    "kickoffUtc": "2026-06-13T19:00:00.000Z",
+    "team1": "Qatar",
+    "team2": "Switzerland",
+    "teamAliases": {
+      "Qatar": [
+        "qatar"
+      ],
+      "Switzerland": [
+        "switzerland"
+      ]
+    },
+    "group": "Group B",
+    "stage": "Group Stage",
+    "venue": "Levi's Stadium, San Francisco Bay Area",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Qatar Switzerland 2026 World Cup",
+      "Qatar vs Switzerland",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-e-ivory-coast-ecuador",
+    "kickoffUtc": "2026-06-14T23:00:00.000Z",
+    "team1": "Ivory Coast",
+    "team2": "Ecuador",
+    "teamAliases": {
+      "Ivory Coast": [
+        "ivory coast",
+        "cote d ivoire"
+      ],
+      "Ecuador": [
+        "ecuador"
+      ]
+    },
+    "group": "Group E",
+    "stage": "Group Stage",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Ivory Coast Ecuador 2026 World Cup",
+      "Ivory Coast vs Ecuador",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-e-germany-curacao",
+    "kickoffUtc": "2026-06-14T17:00:00.000Z",
+    "team1": "Germany",
+    "team2": "Curaçao",
+    "teamAliases": {
+      "Germany": [
+        "germany",
+        "deutschland"
+      ],
+      "Curaçao": [
+        "curaçao",
+        "curacao"
+      ]
+    },
+    "group": "Group E",
+    "stage": "Group Stage",
+    "venue": "NRG Stadium, Houston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Germany Curaçao 2026 World Cup",
+      "Germany vs Curaçao",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-f-netherlands-japan",
+    "kickoffUtc": "2026-06-14T20:00:00.000Z",
+    "team1": "Netherlands",
+    "team2": "Japan",
+    "teamAliases": {
+      "Netherlands": [
+        "netherlands",
+        "holland",
+        "oranje"
+      ],
+      "Japan": [
+        "japan"
+      ]
+    },
+    "group": "Group F",
+    "stage": "Group Stage",
+    "venue": "AT&T Stadium, Dallas",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Netherlands Japan 2026 World Cup",
+      "Netherlands vs Japan",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-f-sweden-tunisia",
+    "kickoffUtc": "2026-06-15T02:00:00.000Z",
+    "team1": "Sweden",
+    "team2": "Tunisia",
+    "teamAliases": {
+      "Sweden": [
+        "sweden"
+      ],
+      "Tunisia": [
+        "tunisia"
+      ]
+    },
+    "group": "Group F",
+    "stage": "Group Stage",
+    "venue": "Estadio BBVA, Monterrey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Sweden Tunisia 2026 World Cup",
+      "Sweden vs Tunisia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-h-saudi-arabia-uruguay",
+    "kickoffUtc": "2026-06-15T22:00:00.000Z",
+    "team1": "Saudi Arabia",
+    "team2": "Uruguay",
+    "teamAliases": {
+      "Saudi Arabia": [
+        "saudi arabia",
+        "ksa"
+      ],
+      "Uruguay": [
+        "uruguay"
+      ]
+    },
+    "group": "Group H",
+    "stage": "Group Stage",
+    "venue": "Hard Rock Stadium, Miami",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Saudi Arabia Uruguay 2026 World Cup",
+      "Saudi Arabia vs Uruguay",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-h-spain-cape-verde",
+    "kickoffUtc": "2026-06-15T16:00:00.000Z",
+    "team1": "Spain",
+    "team2": "Cape Verde",
+    "teamAliases": {
+      "Spain": [
+        "spain",
+        "españa",
+        "espana"
+      ],
+      "Cape Verde": [
+        "cape verde",
+        "cabo verde"
+      ]
+    },
+    "group": "Group H",
+    "stage": "Group Stage",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Spain Cape Verde 2026 World Cup",
+      "Spain vs Cape Verde",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-g-iran-new-zealand",
+    "kickoffUtc": "2026-06-16T01:00:00.000Z",
+    "team1": "Iran",
+    "team2": "New Zealand",
+    "teamAliases": {
+      "Iran": [
+        "iran"
+      ],
+      "New Zealand": [
+        "new zealand",
+        "all whites"
+      ]
+    },
+    "group": "Group G",
+    "stage": "Group Stage",
+    "venue": "SoFi Stadium, Los Angeles",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Iran New Zealand 2026 World Cup",
+      "Iran vs New Zealand",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-g-belgium-egypt",
+    "kickoffUtc": "2026-06-15T19:00:00.000Z",
+    "team1": "Belgium",
+    "team2": "Egypt",
+    "teamAliases": {
+      "Belgium": [
+        "belgium"
+      ],
+      "Egypt": [
+        "egypt"
+      ]
+    },
+    "group": "Group G",
+    "stage": "Group Stage",
+    "venue": "Lumen Field, Seattle",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Belgium Egypt 2026 World Cup",
+      "Belgium vs Egypt",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-i-france-senegal",
+    "kickoffUtc": "2026-06-16T19:00:00.000Z",
+    "team1": "France",
+    "team2": "Senegal",
+    "teamAliases": {
+      "France": [
+        "france",
+        "les bleus"
+      ],
+      "Senegal": [
+        "senegal"
+      ]
+    },
+    "group": "Group I",
+    "stage": "Group Stage",
+    "venue": "MetLife Stadium, New York / New Jersey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "France Senegal 2026 World Cup",
+      "France vs Senegal",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-i-iraq-norway",
+    "kickoffUtc": "2026-06-16T22:00:00.000Z",
+    "team1": "Iraq",
+    "team2": "Norway",
+    "teamAliases": {
+      "Iraq": [
+        "iraq"
+      ],
+      "Norway": [
+        "norway"
+      ]
+    },
+    "group": "Group I",
+    "stage": "Group Stage",
+    "venue": "Gillette Stadium, Boston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Iraq Norway 2026 World Cup",
+      "Iraq vs Norway",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-j-argentina-algeria",
+    "kickoffUtc": "2026-06-17T01:00:00.000Z",
+    "team1": "Argentina",
+    "team2": "Algeria",
+    "teamAliases": {
+      "Argentina": [
+        "argentina",
+        "la albiceleste"
+      ],
+      "Algeria": [
+        "algeria"
+      ]
+    },
+    "group": "Group J",
+    "stage": "Group Stage",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Argentina Algeria 2026 World Cup",
+      "Argentina vs Algeria",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-j-austria-jordan",
+    "kickoffUtc": "2026-06-17T04:00:00.000Z",
+    "team1": "Austria",
+    "team2": "Jordan",
+    "teamAliases": {
+      "Austria": [
+        "austria"
+      ],
+      "Jordan": [
+        "jordan"
+      ]
+    },
+    "group": "Group J",
+    "stage": "Group Stage",
+    "venue": "Levi's Stadium, San Francisco Bay Area",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Austria Jordan 2026 World Cup",
+      "Austria vs Jordan",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-l-ghana-panama",
+    "kickoffUtc": "2026-06-17T23:00:00.000Z",
+    "team1": "Ghana",
+    "team2": "Panama",
+    "teamAliases": {
+      "Ghana": [
+        "ghana"
+      ],
+      "Panama": [
+        "panama"
+      ]
+    },
+    "group": "Group L",
+    "stage": "Group Stage",
+    "venue": "BMO Field, Toronto",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Ghana Panama 2026 World Cup",
+      "Ghana vs Panama",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-l-england-croatia",
+    "kickoffUtc": "2026-06-17T20:00:00.000Z",
+    "team1": "England",
+    "team2": "Croatia",
+    "teamAliases": {
+      "England": [
+        "england",
+        "three lions"
+      ],
+      "Croatia": [
+        "croatia"
+      ]
+    },
+    "group": "Group L",
+    "stage": "Group Stage",
+    "venue": "AT&T Stadium, Dallas",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "England Croatia 2026 World Cup",
+      "England vs Croatia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-k-portugal-dr-congo",
+    "kickoffUtc": "2026-06-17T17:00:00.000Z",
+    "team1": "Portugal",
+    "team2": "DR Congo",
+    "teamAliases": {
+      "Portugal": [
+        "portugal"
+      ],
+      "DR Congo": [
+        "dr congo",
+        "congo dr",
+        "democratic republic of congo"
+      ]
+    },
+    "group": "Group K",
+    "stage": "Group Stage",
+    "venue": "NRG Stadium, Houston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Portugal DR Congo 2026 World Cup",
+      "Portugal vs DR Congo",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-k-uzbekistan-colombia",
+    "kickoffUtc": "2026-06-18T02:00:00.000Z",
+    "team1": "Uzbekistan",
+    "team2": "Colombia",
+    "teamAliases": {
+      "Uzbekistan": [
+        "uzbekistan"
+      ],
+      "Colombia": [
+        "colombia"
+      ]
+    },
+    "group": "Group K",
+    "stage": "Group Stage",
+    "venue": "Estadio Azteca, Mexico City",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Uzbekistan Colombia 2026 World Cup",
+      "Uzbekistan vs Colombia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-a-czech-republic-south-africa",
+    "kickoffUtc": "2026-06-18T16:00:00.000Z",
+    "team1": "Czech Republic",
+    "team2": "South Africa",
+    "teamAliases": {
+      "Czech Republic": [
+        "czech republic",
+        "czechia"
+      ],
+      "South Africa": [
+        "south africa",
+        "bafana bafana"
+      ]
+    },
+    "group": "Group A",
+    "stage": "Group Stage",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Czech Republic South Africa 2026 World Cup",
+      "Czech Republic vs South Africa",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-b-switzerland-bosnia-and-herzegovina",
+    "kickoffUtc": "2026-06-18T19:00:00.000Z",
+    "team1": "Switzerland",
+    "team2": "Bosnia & Herzegovina",
+    "teamAliases": {
+      "Switzerland": [
+        "switzerland"
+      ],
+      "Bosnia & Herzegovina": [
+        "bosnia & herzegovina",
+        "bosnia",
+        "bosnia and herzegovina",
+        "bih"
+      ]
+    },
+    "group": "Group B",
+    "stage": "Group Stage",
+    "venue": "SoFi Stadium, Los Angeles",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Switzerland Bosnia & Herzegovina 2026 World Cup",
+      "Switzerland vs Bosnia & Herzegovina",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-b-canada-qatar",
+    "kickoffUtc": "2026-06-18T22:00:00.000Z",
+    "team1": "Canada",
+    "team2": "Qatar",
+    "teamAliases": {
+      "Canada": [
+        "canada"
+      ],
+      "Qatar": [
+        "qatar"
+      ]
+    },
+    "group": "Group B",
+    "stage": "Group Stage",
+    "venue": "BC Place, Vancouver",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Canada Qatar 2026 World Cup",
+      "Canada vs Qatar",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-a-mexico-south-korea",
+    "kickoffUtc": "2026-06-19T01:00:00.000Z",
+    "team1": "Mexico",
+    "team2": "South Korea",
+    "teamAliases": {
+      "Mexico": [
+        "mexico",
+        "méxico",
+        "el tri"
+      ],
+      "South Korea": [
+        "south korea",
+        "korea republic",
+        "korea"
+      ]
+    },
+    "group": "Group A",
+    "stage": "Group Stage",
+    "venue": "Estadio Akron, Guadalajara",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Mexico South Korea 2026 World Cup",
+      "Mexico vs South Korea",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-c-brazil-haiti",
+    "kickoffUtc": "2026-06-20T01:00:00.000Z",
+    "team1": "Brazil",
+    "team2": "Haiti",
+    "teamAliases": {
+      "Brazil": [
+        "brazil",
+        "seleção",
+        "selecao"
+      ],
+      "Haiti": [
+        "haiti"
+      ]
+    },
+    "group": "Group C",
+    "stage": "Group Stage",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Brazil Haiti 2026 World Cup",
+      "Brazil vs Haiti",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-c-scotland-morocco",
+    "kickoffUtc": "2026-06-19T22:00:00.000Z",
+    "team1": "Scotland",
+    "team2": "Morocco",
+    "teamAliases": {
+      "Scotland": [
+        "scotland"
+      ],
+      "Morocco": [
+        "morocco"
+      ]
+    },
+    "group": "Group C",
+    "stage": "Group Stage",
+    "venue": "Gillette Stadium, Boston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Scotland Morocco 2026 World Cup",
+      "Scotland vs Morocco",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-d-turkey-paraguay",
+    "kickoffUtc": "2026-06-20T03:00:00.000Z",
+    "team1": "Turkey",
+    "team2": "Paraguay",
+    "teamAliases": {
+      "Turkey": [
+        "turkey"
+      ],
+      "Paraguay": [
+        "paraguay"
+      ]
+    },
+    "group": "Group D",
+    "stage": "Group Stage",
+    "venue": "Levi's Stadium, San Francisco Bay Area",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Turkey Paraguay 2026 World Cup",
+      "Turkey vs Paraguay",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-d-united-states-australia",
+    "kickoffUtc": "2026-06-19T19:00:00.000Z",
+    "team1": "United States",
+    "team2": "Australia",
+    "teamAliases": {
+      "United States": [
+        "united states",
+        "usa",
+        "usmnt",
+        "u.s."
+      ],
+      "Australia": [
+        "australia"
+      ]
+    },
+    "group": "Group D",
+    "stage": "Group Stage",
+    "venue": "Lumen Field, Seattle",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "United States Australia 2026 World Cup",
+      "United States vs Australia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-e-germany-ivory-coast",
+    "kickoffUtc": "2026-06-20T20:00:00.000Z",
+    "team1": "Germany",
+    "team2": "Ivory Coast",
+    "teamAliases": {
+      "Germany": [
+        "germany",
+        "deutschland"
+      ],
+      "Ivory Coast": [
+        "ivory coast",
+        "cote d ivoire"
+      ]
+    },
+    "group": "Group E",
+    "stage": "Group Stage",
+    "venue": "BMO Field, Toronto",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Germany Ivory Coast 2026 World Cup",
+      "Germany vs Ivory Coast",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-e-ecuador-curacao",
+    "kickoffUtc": "2026-06-21T00:00:00.000Z",
+    "team1": "Ecuador",
+    "team2": "Curaçao",
+    "teamAliases": {
+      "Ecuador": [
+        "ecuador"
+      ],
+      "Curaçao": [
+        "curaçao",
+        "curacao"
+      ]
+    },
+    "group": "Group E",
+    "stage": "Group Stage",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Ecuador Curaçao 2026 World Cup",
+      "Ecuador vs Curaçao",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-f-netherlands-sweden",
+    "kickoffUtc": "2026-06-20T17:00:00.000Z",
+    "team1": "Netherlands",
+    "team2": "Sweden",
+    "teamAliases": {
+      "Netherlands": [
+        "netherlands",
+        "holland",
+        "oranje"
+      ],
+      "Sweden": [
+        "sweden"
+      ]
+    },
+    "group": "Group F",
+    "stage": "Group Stage",
+    "venue": "NRG Stadium, Houston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Netherlands Sweden 2026 World Cup",
+      "Netherlands vs Sweden",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-f-tunisia-japan",
+    "kickoffUtc": "2026-06-21T04:00:00.000Z",
+    "team1": "Tunisia",
+    "team2": "Japan",
+    "teamAliases": {
+      "Tunisia": [
+        "tunisia"
+      ],
+      "Japan": [
+        "japan"
+      ]
+    },
+    "group": "Group F",
+    "stage": "Group Stage",
+    "venue": "Estadio BBVA, Monterrey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Tunisia Japan 2026 World Cup",
+      "Tunisia vs Japan",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-h-uruguay-cape-verde",
+    "kickoffUtc": "2026-06-21T22:00:00.000Z",
+    "team1": "Uruguay",
+    "team2": "Cape Verde",
+    "teamAliases": {
+      "Uruguay": [
+        "uruguay"
+      ],
+      "Cape Verde": [
+        "cape verde",
+        "cabo verde"
+      ]
+    },
+    "group": "Group H",
+    "stage": "Group Stage",
+    "venue": "Hard Rock Stadium, Miami",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Uruguay Cape Verde 2026 World Cup",
+      "Uruguay vs Cape Verde",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-h-spain-saudi-arabia",
+    "kickoffUtc": "2026-06-21T16:00:00.000Z",
+    "team1": "Spain",
+    "team2": "Saudi Arabia",
+    "teamAliases": {
+      "Spain": [
+        "spain",
+        "españa",
+        "espana"
+      ],
+      "Saudi Arabia": [
+        "saudi arabia",
+        "ksa"
+      ]
+    },
+    "group": "Group H",
+    "stage": "Group Stage",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Spain Saudi Arabia 2026 World Cup",
+      "Spain vs Saudi Arabia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-g-belgium-iran",
+    "kickoffUtc": "2026-06-21T19:00:00.000Z",
+    "team1": "Belgium",
+    "team2": "Iran",
+    "teamAliases": {
+      "Belgium": [
+        "belgium"
+      ],
+      "Iran": [
+        "iran"
+      ]
+    },
+    "group": "Group G",
+    "stage": "Group Stage",
+    "venue": "SoFi Stadium, Los Angeles",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Belgium Iran 2026 World Cup",
+      "Belgium vs Iran",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-g-new-zealand-egypt",
+    "kickoffUtc": "2026-06-22T01:00:00.000Z",
+    "team1": "New Zealand",
+    "team2": "Egypt",
+    "teamAliases": {
+      "New Zealand": [
+        "new zealand",
+        "all whites"
+      ],
+      "Egypt": [
+        "egypt"
+      ]
+    },
+    "group": "Group G",
+    "stage": "Group Stage",
+    "venue": "BC Place, Vancouver",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "New Zealand Egypt 2026 World Cup",
+      "New Zealand vs Egypt",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-i-norway-senegal",
+    "kickoffUtc": "2026-06-23T00:00:00.000Z",
+    "team1": "Norway",
+    "team2": "Senegal",
+    "teamAliases": {
+      "Norway": [
+        "norway"
+      ],
+      "Senegal": [
+        "senegal"
+      ]
+    },
+    "group": "Group I",
+    "stage": "Group Stage",
+    "venue": "MetLife Stadium, New York / New Jersey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Norway Senegal 2026 World Cup",
+      "Norway vs Senegal",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-i-france-iraq",
+    "kickoffUtc": "2026-06-22T21:00:00.000Z",
+    "team1": "France",
+    "team2": "Iraq",
+    "teamAliases": {
+      "France": [
+        "france",
+        "les bleus"
+      ],
+      "Iraq": [
+        "iraq"
+      ]
+    },
+    "group": "Group I",
+    "stage": "Group Stage",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "France Iraq 2026 World Cup",
+      "France vs Iraq",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-j-argentina-austria",
+    "kickoffUtc": "2026-06-22T17:00:00.000Z",
+    "team1": "Argentina",
+    "team2": "Austria",
+    "teamAliases": {
+      "Argentina": [
+        "argentina",
+        "la albiceleste"
+      ],
+      "Austria": [
+        "austria"
+      ]
+    },
+    "group": "Group J",
+    "stage": "Group Stage",
+    "venue": "AT&T Stadium, Dallas",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Argentina Austria 2026 World Cup",
+      "Argentina vs Austria",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-j-jordan-algeria",
+    "kickoffUtc": "2026-06-23T03:00:00.000Z",
+    "team1": "Jordan",
+    "team2": "Algeria",
+    "teamAliases": {
+      "Jordan": [
+        "jordan"
+      ],
+      "Algeria": [
+        "algeria"
+      ]
+    },
+    "group": "Group J",
+    "stage": "Group Stage",
+    "venue": "Levi's Stadium, San Francisco Bay Area",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Jordan Algeria 2026 World Cup",
+      "Jordan vs Algeria",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-l-england-ghana",
+    "kickoffUtc": "2026-06-23T20:00:00.000Z",
+    "team1": "England",
+    "team2": "Ghana",
+    "teamAliases": {
+      "England": [
+        "england",
+        "three lions"
+      ],
+      "Ghana": [
+        "ghana"
+      ]
+    },
+    "group": "Group L",
+    "stage": "Group Stage",
+    "venue": "Gillette Stadium, Boston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "England Ghana 2026 World Cup",
+      "England vs Ghana",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-l-panama-croatia",
+    "kickoffUtc": "2026-06-23T23:00:00.000Z",
+    "team1": "Panama",
+    "team2": "Croatia",
+    "teamAliases": {
+      "Panama": [
+        "panama"
+      ],
+      "Croatia": [
+        "croatia"
+      ]
+    },
+    "group": "Group L",
+    "stage": "Group Stage",
+    "venue": "BMO Field, Toronto",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Panama Croatia 2026 World Cup",
+      "Panama vs Croatia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-k-portugal-uzbekistan",
+    "kickoffUtc": "2026-06-23T17:00:00.000Z",
+    "team1": "Portugal",
+    "team2": "Uzbekistan",
+    "teamAliases": {
+      "Portugal": [
+        "portugal"
+      ],
+      "Uzbekistan": [
+        "uzbekistan"
+      ]
+    },
+    "group": "Group K",
+    "stage": "Group Stage",
+    "venue": "NRG Stadium, Houston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Portugal Uzbekistan 2026 World Cup",
+      "Portugal vs Uzbekistan",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-k-colombia-dr-congo",
+    "kickoffUtc": "2026-06-24T02:00:00.000Z",
+    "team1": "Colombia",
+    "team2": "DR Congo",
+    "teamAliases": {
+      "Colombia": [
+        "colombia"
+      ],
+      "DR Congo": [
+        "dr congo",
+        "congo dr",
+        "democratic republic of congo"
+      ]
+    },
+    "group": "Group K",
+    "stage": "Group Stage",
+    "venue": "Estadio Akron, Guadalajara",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Colombia DR Congo 2026 World Cup",
+      "Colombia vs DR Congo",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-c-scotland-brazil",
+    "kickoffUtc": "2026-06-24T22:00:00.000Z",
+    "team1": "Scotland",
+    "team2": "Brazil",
+    "teamAliases": {
+      "Scotland": [
+        "scotland"
+      ],
+      "Brazil": [
+        "brazil",
+        "seleção",
+        "selecao"
+      ]
+    },
+    "group": "Group C",
+    "stage": "Group Stage",
+    "venue": "Hard Rock Stadium, Miami",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Scotland Brazil 2026 World Cup",
+      "Scotland vs Brazil",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-c-morocco-haiti",
+    "kickoffUtc": "2026-06-24T22:00:00.000Z",
+    "team1": "Morocco",
+    "team2": "Haiti",
+    "teamAliases": {
+      "Morocco": [
+        "morocco"
+      ],
+      "Haiti": [
+        "haiti"
+      ]
+    },
+    "group": "Group C",
+    "stage": "Group Stage",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Morocco Haiti 2026 World Cup",
+      "Morocco vs Haiti",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-b-switzerland-canada",
+    "kickoffUtc": "2026-06-24T19:00:00.000Z",
+    "team1": "Switzerland",
+    "team2": "Canada",
+    "teamAliases": {
+      "Switzerland": [
+        "switzerland"
+      ],
+      "Canada": [
+        "canada"
+      ]
+    },
+    "group": "Group B",
+    "stage": "Group Stage",
+    "venue": "BC Place, Vancouver",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Switzerland Canada 2026 World Cup",
+      "Switzerland vs Canada",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-b-bosnia-and-herzegovina-qatar",
+    "kickoffUtc": "2026-06-24T19:00:00.000Z",
+    "team1": "Bosnia & Herzegovina",
+    "team2": "Qatar",
+    "teamAliases": {
+      "Bosnia & Herzegovina": [
+        "bosnia & herzegovina",
+        "bosnia",
+        "bosnia and herzegovina",
+        "bih"
+      ],
+      "Qatar": [
+        "qatar"
+      ]
+    },
+    "group": "Group B",
+    "stage": "Group Stage",
+    "venue": "Lumen Field, Seattle",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Bosnia & Herzegovina Qatar 2026 World Cup",
+      "Bosnia & Herzegovina vs Qatar",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-a-czech-republic-mexico",
+    "kickoffUtc": "2026-06-25T01:00:00.000Z",
+    "team1": "Czech Republic",
+    "team2": "Mexico",
+    "teamAliases": {
+      "Czech Republic": [
+        "czech republic",
+        "czechia"
+      ],
+      "Mexico": [
+        "mexico",
+        "méxico",
+        "el tri"
+      ]
+    },
+    "group": "Group A",
+    "stage": "Group Stage",
+    "venue": "Estadio Azteca, Mexico City",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Czech Republic Mexico 2026 World Cup",
+      "Czech Republic vs Mexico",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-a-south-africa-south-korea",
+    "kickoffUtc": "2026-06-25T01:00:00.000Z",
+    "team1": "South Africa",
+    "team2": "South Korea",
+    "teamAliases": {
+      "South Africa": [
+        "south africa",
+        "bafana bafana"
+      ],
+      "South Korea": [
+        "south korea",
+        "korea republic",
+        "korea"
+      ]
+    },
+    "group": "Group A",
+    "stage": "Group Stage",
+    "venue": "Estadio BBVA, Monterrey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "South Africa South Korea 2026 World Cup",
+      "South Africa vs South Korea",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-e-curacao-ivory-coast",
+    "kickoffUtc": "2026-06-25T20:00:00.000Z",
+    "team1": "Curaçao",
+    "team2": "Ivory Coast",
+    "teamAliases": {
+      "Curaçao": [
+        "curaçao",
+        "curacao"
+      ],
+      "Ivory Coast": [
+        "ivory coast",
+        "cote d ivoire"
+      ]
+    },
+    "group": "Group E",
+    "stage": "Group Stage",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Curaçao Ivory Coast 2026 World Cup",
+      "Curaçao vs Ivory Coast",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-e-ecuador-germany",
+    "kickoffUtc": "2026-06-25T20:00:00.000Z",
+    "team1": "Ecuador",
+    "team2": "Germany",
+    "teamAliases": {
+      "Ecuador": [
+        "ecuador"
+      ],
+      "Germany": [
+        "germany",
+        "deutschland"
+      ]
+    },
+    "group": "Group E",
+    "stage": "Group Stage",
+    "venue": "MetLife Stadium, New York / New Jersey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Ecuador Germany 2026 World Cup",
+      "Ecuador vs Germany",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-f-japan-sweden",
+    "kickoffUtc": "2026-06-25T23:00:00.000Z",
+    "team1": "Japan",
+    "team2": "Sweden",
+    "teamAliases": {
+      "Japan": [
+        "japan"
+      ],
+      "Sweden": [
+        "sweden"
+      ]
+    },
+    "group": "Group F",
+    "stage": "Group Stage",
+    "venue": "AT&T Stadium, Dallas",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Japan Sweden 2026 World Cup",
+      "Japan vs Sweden",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-f-tunisia-netherlands",
+    "kickoffUtc": "2026-06-25T23:00:00.000Z",
+    "team1": "Tunisia",
+    "team2": "Netherlands",
+    "teamAliases": {
+      "Tunisia": [
+        "tunisia"
+      ],
+      "Netherlands": [
+        "netherlands",
+        "holland",
+        "oranje"
+      ]
+    },
+    "group": "Group F",
+    "stage": "Group Stage",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Tunisia Netherlands 2026 World Cup",
+      "Tunisia vs Netherlands",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-d-turkey-united-states",
+    "kickoffUtc": "2026-06-26T02:00:00.000Z",
+    "team1": "Turkey",
+    "team2": "United States",
+    "teamAliases": {
+      "Turkey": [
+        "turkey"
+      ],
+      "United States": [
+        "united states",
+        "usa",
+        "usmnt",
+        "u.s."
+      ]
+    },
+    "group": "Group D",
+    "stage": "Group Stage",
+    "venue": "SoFi Stadium, Los Angeles",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Turkey United States 2026 World Cup",
+      "Turkey vs United States",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-d-paraguay-australia",
+    "kickoffUtc": "2026-06-26T02:00:00.000Z",
+    "team1": "Paraguay",
+    "team2": "Australia",
+    "teamAliases": {
+      "Paraguay": [
+        "paraguay"
+      ],
+      "Australia": [
+        "australia"
+      ]
+    },
+    "group": "Group D",
+    "stage": "Group Stage",
+    "venue": "Levi's Stadium, San Francisco Bay Area",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Paraguay Australia 2026 World Cup",
+      "Paraguay vs Australia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-i-norway-france",
+    "kickoffUtc": "2026-06-26T19:00:00.000Z",
+    "team1": "Norway",
+    "team2": "France",
+    "teamAliases": {
+      "Norway": [
+        "norway"
+      ],
+      "France": [
+        "france",
+        "les bleus"
+      ]
+    },
+    "group": "Group I",
+    "stage": "Group Stage",
+    "venue": "Gillette Stadium, Boston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Norway France 2026 World Cup",
+      "Norway vs France",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-i-senegal-iraq",
+    "kickoffUtc": "2026-06-26T19:00:00.000Z",
+    "team1": "Senegal",
+    "team2": "Iraq",
+    "teamAliases": {
+      "Senegal": [
+        "senegal"
+      ],
+      "Iraq": [
+        "iraq"
+      ]
+    },
+    "group": "Group I",
+    "stage": "Group Stage",
+    "venue": "BMO Field, Toronto",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Senegal Iraq 2026 World Cup",
+      "Senegal vs Iraq",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-g-egypt-iran",
+    "kickoffUtc": "2026-06-27T03:00:00.000Z",
+    "team1": "Egypt",
+    "team2": "Iran",
+    "teamAliases": {
+      "Egypt": [
+        "egypt"
+      ],
+      "Iran": [
+        "iran"
+      ]
+    },
+    "group": "Group G",
+    "stage": "Group Stage",
+    "venue": "Lumen Field, Seattle",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Egypt Iran 2026 World Cup",
+      "Egypt vs Iran",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-g-new-zealand-belgium",
+    "kickoffUtc": "2026-06-27T03:00:00.000Z",
+    "team1": "New Zealand",
+    "team2": "Belgium",
+    "teamAliases": {
+      "New Zealand": [
+        "new zealand",
+        "all whites"
+      ],
+      "Belgium": [
+        "belgium"
+      ]
+    },
+    "group": "Group G",
+    "stage": "Group Stage",
+    "venue": "BC Place, Vancouver",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "New Zealand Belgium 2026 World Cup",
+      "New Zealand vs Belgium",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-h-cape-verde-saudi-arabia",
+    "kickoffUtc": "2026-06-27T00:00:00.000Z",
+    "team1": "Cape Verde",
+    "team2": "Saudi Arabia",
+    "teamAliases": {
+      "Cape Verde": [
+        "cape verde",
+        "cabo verde"
+      ],
+      "Saudi Arabia": [
+        "saudi arabia",
+        "ksa"
+      ]
+    },
+    "group": "Group H",
+    "stage": "Group Stage",
+    "venue": "NRG Stadium, Houston",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Cape Verde Saudi Arabia 2026 World Cup",
+      "Cape Verde vs Saudi Arabia",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-h-uruguay-spain",
+    "kickoffUtc": "2026-06-27T00:00:00.000Z",
+    "team1": "Uruguay",
+    "team2": "Spain",
+    "teamAliases": {
+      "Uruguay": [
+        "uruguay"
+      ],
+      "Spain": [
+        "spain",
+        "españa",
+        "espana"
+      ]
+    },
+    "group": "Group H",
+    "stage": "Group Stage",
+    "venue": "Estadio Akron, Guadalajara",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Uruguay Spain 2026 World Cup",
+      "Uruguay vs Spain",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-l-panama-england",
+    "kickoffUtc": "2026-06-27T21:00:00.000Z",
+    "team1": "Panama",
+    "team2": "England",
+    "teamAliases": {
+      "Panama": [
+        "panama"
+      ],
+      "England": [
+        "england",
+        "three lions"
+      ]
+    },
+    "group": "Group L",
+    "stage": "Group Stage",
+    "venue": "MetLife Stadium, New York / New Jersey",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Panama England 2026 World Cup",
+      "Panama vs England",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-l-croatia-ghana",
+    "kickoffUtc": "2026-06-27T21:00:00.000Z",
+    "team1": "Croatia",
+    "team2": "Ghana",
+    "teamAliases": {
+      "Croatia": [
+        "croatia"
+      ],
+      "Ghana": [
+        "ghana"
+      ]
+    },
+    "group": "Group L",
+    "stage": "Group Stage",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Croatia Ghana 2026 World Cup",
+      "Croatia vs Ghana",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-j-algeria-austria",
+    "kickoffUtc": "2026-06-28T02:00:00.000Z",
+    "team1": "Algeria",
+    "team2": "Austria",
+    "teamAliases": {
+      "Algeria": [
+        "algeria"
+      ],
+      "Austria": [
+        "austria"
+      ]
+    },
+    "group": "Group J",
+    "stage": "Group Stage",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Algeria Austria 2026 World Cup",
+      "Algeria vs Austria",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-j-jordan-argentina",
+    "kickoffUtc": "2026-06-28T02:00:00.000Z",
+    "team1": "Jordan",
+    "team2": "Argentina",
+    "teamAliases": {
+      "Jordan": [
+        "jordan"
+      ],
+      "Argentina": [
+        "argentina",
+        "la albiceleste"
+      ]
+    },
+    "group": "Group J",
+    "stage": "Group Stage",
+    "venue": "AT&T Stadium, Dallas",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Jordan Argentina 2026 World Cup",
+      "Jordan vs Argentina",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-k-colombia-portugal",
+    "kickoffUtc": "2026-06-27T23:30:00.000Z",
+    "team1": "Colombia",
+    "team2": "Portugal",
+    "teamAliases": {
+      "Colombia": [
+        "colombia"
+      ],
+      "Portugal": [
+        "portugal"
+      ]
+    },
+    "group": "Group K",
+    "stage": "Group Stage",
+    "venue": "Hard Rock Stadium, Miami",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "Colombia Portugal 2026 World Cup",
+      "Colombia vs Portugal",
+      "2026 World Cup winner"
+    ]
+  },
+  {
+    "id": "2026-group-k-dr-congo-uzbekistan",
+    "kickoffUtc": "2026-06-27T23:30:00.000Z",
+    "team1": "DR Congo",
+    "team2": "Uzbekistan",
+    "teamAliases": {
+      "DR Congo": [
+        "dr congo",
+        "congo dr",
+        "democratic republic of congo"
+      ],
+      "Uzbekistan": [
+        "uzbekistan"
+      ]
+    },
+    "group": "Group K",
+    "stage": "Group Stage",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "source": {
+      "sourceName": "FIFA World Cup 2026 official match schedule",
+      "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "sourceTimestamp": "2026-05-28"
+    },
+    "marketSearchQueries": [
+      "DR Congo Uzbekistan 2026 World Cup",
+      "DR Congo vs Uzbekistan",
+      "2026 World Cup winner"
+    ]
+  }
+]

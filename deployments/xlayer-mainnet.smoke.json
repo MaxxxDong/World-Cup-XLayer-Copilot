@@ -1,0 +1,18 @@
+{
+  "network": "xlayer-mainnet",
+  "chainId": 196,
+  "contractAddress": "0xA486558db7f0d0e0C9F018e64Ecc737EFA12ade3",
+  "stakeToken": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+  "wallet": "0xC3bFa68F5318bc51cbd579FAd013E885D8568038",
+  "smokeId": "smoke-1779903680527",
+  "marketId": "11",
+  "amountUsdt0": "0.1",
+  "createTxHash": "0x99ee4599351b20c8125dd3efc2bb2500336ac66b7720ba9e252e45b24736f812",
+  "approveTxHash": "0x96b4bd8edd869823793d628eb3df5ccf13e9eafa2014c9ce30c6a440355076e2",
+  "buyTxHash": "0x14ca0836571f20e2171d3fffeaa5e3afdae2fd29f07884681cea0564363d450f",
+  "closeTxHash": "0x685ddfc54d3ade03af39e6627ea6f40e98f46871ba921df318a928f34ea8a751",
+  "resolveTxHash": "0x6b4f2ad692b7f87e07e54742ef9d8dfb7ecf69f0005dbcdfb25538ed05be7db2",
+  "claimTxHash": "0x72fdb7daf3d6f2710de409bbbd132747954fbe6e3533c83e093dfc725e899c04",
+  "refundedAmount": "100000",
+  "completedAt": "2026-05-27T17:41:33.471Z"
+}

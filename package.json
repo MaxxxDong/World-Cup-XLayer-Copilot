@@ -1,0 +1,42 @@
+{
+  "name": "world-cup-xlayer-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lightweight Chrome AI match copilot with an X Layer World Cup market dapp.",
+  "license": "Apache-2.0",
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "test:contracts": "hardhat test",
+    "deploy:xlayer": "hardhat run scripts/deploy-xlayer.ts --network xlayer",
+    "check:xlayer": "hardhat run scripts/check-deployment.ts --network xlayer",
+    "build:reference-data": "node scripts/build-reference-data.mjs",
+    "create-markets:xlayer": "hardhat run scripts/create-markets.ts --network xlayer",
+    "create-missing-markets:xlayer": "hardhat run scripts/create-missing-markets.ts --network xlayer",
+    "seed-reference-liquidity:xlayer": "hardhat run scripts/seed-reference-liquidity.ts --network xlayer",
+    "export-web-registry": "hardhat run scripts/export-web-registry.ts",
+    "smoke:xlayer": "hardhat run scripts/smoke-xlayer.ts --network xlayer",
+    "export-oklink-verification": "hardhat run scripts/export-oklink-verification.ts",
+    "close-market:xlayer": "hardhat run scripts/close-market.ts --network xlayer",
+    "resolve-market:xlayer": "hardhat run scripts/resolve-market.ts --network xlayer",
+    "dev:web": "npm run dev --workspace apps/web",
+    "build:web": "npm run build --workspace apps/web",
+    "lint:extension": "npm --prefix apps/extension run lint",
+    "test:extension": "npm --prefix apps/extension test",
+    "build:extension": "npm --prefix apps/extension run build",
+    "check:extension": "node scripts/check-extension.mjs"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@types/node": "^22.10.2",
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.27.1",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-05-28T02:19:21.183Z",
+  "source": {
+    "provider": "Polymarket Gamma API",
+    "sourceUrl": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+    "gammaUrl": "https://gamma-api.polymarket.com/public-search?q=2026%20FIFA%20World%20Cup%20Winner&limit=10",
+    "updatedAt": "2026-05-28T02:19:12.900195Z"
+  },
+  "entries": [
+    {
+      "team": "Spain",
+      "probability": 0.1725,
+      "oddsBps": 57971,
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "volume": 24880863.626240917,
+      "liquidity": 773669.11883,
+      "updatedAt": "2026-05-28T02:09:33.02786Z"
+    },
+    {
+      "team": "France",
+      "probability": 0.1695,
+      "oddsBps": 58997,
+      "question": "Will France win the 2026 FIFA World Cup?",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924",
+      "volume": 31180273.121633966,
+      "liquidity": 894255.5858,
+      "updatedAt": "2026-05-28T02:11:35.549803Z"
+    },
+    {
+      "team": "England",
+      "probability": 0.1115,
+      "oddsBps": 89686,
+      "question": "Will England win the 2026 FIFA World Cup?",
+      "slug": "will-england-win-the-2026-fifa-world-cup-937",
+      "volume": 20546097.41788802,
+      "liquidity": 1391608.08695,
+      "updatedAt": "2026-05-28T02:16:01.22269Z"
+    },
+    {
+      "team": "Portugal",
+      "probability": 0.1035,
+      "oddsBps": 96618,
+      "question": "Will Portugal win the 2026 FIFA World Cup?",
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+      "volume": 24788513.46688764,
+      "liquidity": 591074.99735,
+      "updatedAt": "2026-05-28T02:14:04.954677Z"
+    },
+    {
+      "team": "Brazil",
+      "probability": 0.0935,
+      "oddsBps": 106952,
+      "question": "Will Brazil win the 2026 FIFA World Cup?",
+      "slug": "will-brazil-win-the-2026-fifa-world-cup-183",
+      "volume": 22507174.84876908,
+      "liquidity": 1362361.65868,
+      "updatedAt": "2026-05-28T02:11:33.316864Z"
+    },
+    {
+      "team": "Argentina",
+      "probability": 0.0835,
+      "oddsBps": 119760,
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "volume": 22171309.905149955,
+      "liquidity": 1080348.90238,
+      "updatedAt": "2026-05-28T02:09:32.834345Z"
+    },
+    {
+      "team": "Germany",
+      "probability": 0.0515,
+      "oddsBps": 194175,
+      "question": "Will Germany win the 2026 FIFA World Cup?",
+      "slug": "will-germany-win-the-2026-fifa-world-cup-467",
+      "volume": 21000304.370542735,
+      "liquidity": 907512.07193,
+      "updatedAt": "2026-05-28T02:13:02.549568Z"
+    },
+    {
+      "team": "Netherlands",
+      "probability": 0.0375,
+      "oddsBps": 266667,
+      "question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "slug": "will-netherlands-win-the-2026-fifa-world-cup-739",
+      "volume": 23806832.475422464,
+      "liquidity": 570108.94584,
+      "updatedAt": "2026-05-28T02:11:44.467816Z"
+    },
+    {
+      "team": "Norway",
+      "probability": 0.0255,
+      "oddsBps": 392157,
+      "question": "Will Norway win the 2026 FIFA World Cup?",
+      "slug": "will-norway-win-the-2026-fifa-world-cup-893",
+      "volume": 25114748.03667952,
+      "liquidity": 1206556.86117,
+      "updatedAt": "2026-05-28T02:14:38.990698Z"
+    },
+    {
+      "team": "Japan",
+      "probability": 0.0185,
+      "oddsBps": 540541,
+      "question": "Will Japan win the 2026 FIFA World Cup?",
+      "slug": "will-japan-win-the-2026-fifa-world-cup-112",
+      "volume": 27025803.018775225,
+      "liquidity": 511153.0791,
+      "updatedAt": "2026-05-28T02:14:29.189839Z"
+    },
+    {
+      "team": "Colombia",
+      "probability": 0.0175,
+      "oddsBps": 571429,
+      "question": "Will Colombia win the 2026 FIFA World Cup?",
+      "slug": "will-colombia-win-the-2026-fifa-world-cup-734",
+      "volume": 20739703.5925196,
+      "liquidity": 5316091.97225,
+      "updatedAt": "2026-05-28T02:14:25.128171Z"
+    },
+    {
+      "team": "Belgium",
+      "probability": 0.0175,
+      "oddsBps": 571429,
+      "question": "Will Belgium win the 2026 FIFA World Cup?",
+      "slug": "will-belgium-win-the-2026-fifa-world-cup-358",
+      "volume": 20752076.17852836,
+      "liquidity": 3693376.18985,
+      "updatedAt": "2026-05-28T02:12:20.373291Z"
+    },
+    {
+      "team": "Morocco",
+      "probability": 0.0145,
+      "oddsBps": 689655,
+      "question": "Will Morocco win the 2026 FIFA World Cup?",
+      "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
+      "volume": 26704194.05089493,
+      "liquidity": 2519326.70075,
+      "updatedAt": "2026-05-28T02:16:08.395259Z"
+    },
+    {
+      "team": "Switzerland",
+      "probability": 0.0115,
+      "oddsBps": 869565,
+      "question": "Will Switzerland win the 2026 FIFA World Cup?",
+      "slug": "will-switzerland-win-the-2026-fifa-world-cup",
+      "volume": 22887451.5133835,
+      "liquidity": 1055744.40944,
+      "updatedAt": "2026-05-28T02:12:24.879746Z"
+    },
+    {
+      "team": "United States",
+      "probability": 0.0115,
+      "oddsBps": 869565,
+      "question": "Will USA win the 2026 FIFA World Cup?",
+      "slug": "will-usa-win-the-2026-fifa-world-cup-467",
+      "volume": 39506113.5935501,
+      "liquidity": 5807202.17375,
+      "updatedAt": "2026-05-28T02:12:47.902343Z"
+    },
+    {
+      "team": "Uruguay",
+      "probability": 0.0105,
+      "oddsBps": 952381,
+      "question": "Will Uruguay win the 2026 FIFA World Cup?",
+      "slug": "will-uruguay-win-the-2026-fifa-world-cup-932",
+      "volume": 21723224.2408127,
+      "liquidity": 6744207.11637,
+      "updatedAt": "2026-05-28T02:11:39.105213Z"
+    },
+    {
+      "team": "Mexico",
+      "probability": 0.0105,
+      "oddsBps": 952381,
+      "question": "Will Mexico win the 2026 FIFA World Cup?",
+      "slug": "will-mexico-win-the-2026-fifa-world-cup-529",
+      "volume": 25514072.130773727,
+      "liquidity": 2534545.36434,
+      "updatedAt": "2026-05-28T02:09:27.059388Z"
+    },
+    {
+      "team": "Croatia",
+      "probability": 0.0085,
+      "oddsBps": 1176471,
+      "question": "Will Croatia win the 2026 FIFA World Cup?",
+      "slug": "will-croatia-win-the-2026-fifa-world-cup",
+      "volume": 27187799.641354896,
+      "liquidity": 3355851.15961,
+      "updatedAt": "2026-05-28T02:12:32.529846Z"
+    },
+    {
+      "team": "Ecuador",
+      "probability": 0.0075,
+      "oddsBps": 1333333,
+      "question": "Will Ecuador win the 2026 FIFA World Cup?",
+      "slug": "will-ecuador-win-the-2026-fifa-world-cup-986",
+      "volume": 28035733.14119784,
+      "liquidity": 4156449.70203,
+      "updatedAt": "2026-05-28T02:14:41.110277Z"
+    },
+    {
+      "team": "Turkey",
+      "probability": 0.0065,
+      "oddsBps": 1538462,
+      "question": "Will Turkiye win the 2026 FIFA World Cup?",
+      "slug": "will-turkiye-win-the-2026-fifa-world-cup",
+      "volume": 16323169.900088929,
+      "liquidity": 3316136.5488,
+      "updatedAt": "2026-05-28T02:09:32.935144Z"
+    },
+    {
+      "team": "Senegal",
+      "probability": 0.0065,
+      "oddsBps": 1538462,
+      "question": "Will Senegal win the 2026 FIFA World Cup?",
+      "slug": "will-senegal-win-the-2026-fifa-world-cup",
+      "volume": 23604831.69662177,
+      "liquidity": 5137813.51393,
+      "updatedAt": "2026-05-28T02:13:43.596352Z"
+    },
+    {
+      "team": "Austria",
+      "probability": 0.0055,
+      "oddsBps": 1818182,
+      "question": "Will Austria win the 2026 FIFA World Cup?",
+      "slug": "will-austria-win-the-2026-fifa-world-cup",
+      "volume": 28409682.794495087,
+      "liquidity": 3082600.24102,
+      "updatedAt": "2026-05-28T02:13:42.145237Z"
+    },
+    {
+      "team": "Sweden",
+      "probability": 0.0055,
+      "oddsBps": 1818182,
+      "question": "Will Sweden win the 2026 FIFA World Cup?",
+      "slug": "will-sweden-win-the-2026-fifa-world-cup",
+      "volume": 15189453.469433937,
+      "liquidity": 8104666.16052,
+      "updatedAt": "2026-05-28T02:13:09.673043Z"
+    },
+    {
+      "team": "Canada",
+      "probability": 0.0035,
+      "oddsBps": 2857143,
+      "question": "Will Canada win the 2026 FIFA World Cup?",
+      "slug": "will-canada-win-the-2026-fifa-world-cup-755",
+      "volume": 28792414.193585753,
+      "liquidity": 9040379.96719,
+      "updatedAt": "2026-05-28T02:15:34.174876Z"
+    },
+    {
+      "team": "South Korea",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will South Korea win the 2026 FIFA World Cup?",
+      "slug": "will-south-korea-win-the-2026-fifa-world-cup-485",
+      "volume": 29578968.666661434,
+      "liquidity": 6349844.26505,
+      "updatedAt": "2026-05-28T02:15:43.416269Z"
+    },
+    {
+      "team": "Ghana",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will Ghana win the 2026 FIFA World Cup?",
+      "slug": "will-ghana-win-the-2026-fifa-world-cup",
+      "volume": 23642324.11213708,
+      "liquidity": 9567901.55373,
+      "updatedAt": "2026-05-28T02:13:57.785317Z"
+    },
+    {
+      "team": "Bosnia-Herzegovina",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will Bosnia-Herzegovina win the 2026 FIFA World Cup?",
+      "slug": "will-bosnia-herzegovina-win-the-2026-fifa-world-cup",
+      "volume": 13228380.846329665,
+      "liquidity": 10119582.07129,
+      "updatedAt": "2026-05-28T02:14:09.869088Z"
+    },
+    {
+      "team": "Paraguay",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will Paraguay win the 2026 FIFA World Cup?",
+      "slug": "will-paraguay-win-the-2026-fifa-world-cup-967",
+      "volume": 25363310.970088765,
+      "liquidity": 6931799.59089,
+      "updatedAt": "2026-05-28T02:16:09.412558Z"
+    },
+    {
+      "team": "Scotland",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will Scotland win the 2026 FIFA World Cup?",
+      "slug": "will-scotland-win-the-2026-fifa-world-cup",
+      "volume": 27884171.111305803,
+      "liquidity": 8921986.68521,
+      "updatedAt": "2026-05-28T02:12:53.817569Z"
+    },
+    {
+      "team": "Ivory Coast",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "slug": "will-ivory-coast-win-the-2026-fifa-world-cup",
+      "volume": 31100804.42311936,
+      "liquidity": 4720941.98063,
+      "updatedAt": "2026-05-28T02:16:17.935938Z"
+    },
+    {
+      "team": "Czechia",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will Czechia win the 2026 FIFA World Cup?",
+      "slug": "will-czechia-win-the-2026-fifa-world-cup",
+      "volume": 11757877.380076414,
+      "liquidity": 7966416.2725,
+      "updatedAt": "2026-05-28T02:11:57.192251Z"
+    },
+    {
+      "team": "Egypt",
+      "probability": 0.0025,
+      "oddsBps": 4000000,
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
+      "slug": "will-egypt-win-the-2026-fifa-world-cup",
+      "volume": 29303470.430001985,
+      "liquidity": 8177985.41837,
+      "updatedAt": "2026-05-28T02:14:18.162818Z"
+    },
+    {
+      "team": "Iran",
+      "probability": 0.0015,
+      "oddsBps": 6666667,
+      "question": "Will Iran win the 2026 FIFA World Cup?",
+      "slug": "will-iran-win-the-2026-fifa-world-cup-788",
+      "volume": 31381012.09879012,
+      "liquidity": 5898535.95792,
+      "updatedAt": "2026-05-28T02:11:30.087905Z"
+    },
+    {
+      "team": "Algeria",
+      "probability": 0.0015,
+      "oddsBps": 6666667,
+      "question": "Will Algeria win the 2026 FIFA World Cup?",
+      "slug": "will-algeria-win-the-2026-fifa-world-cup",
+      "volume": 26159716.282215297,
+      "liquidity": 9408801.47354,
+      "updatedAt": "2026-05-28T02:14:44.207341Z"
+    },
+    {
+      "team": "Tunisia",
+      "probability": 0.0015,
+      "oddsBps": 6666667,
+      "question": "Will Tunisia win the 2026 FIFA World Cup?",
+      "slug": "will-tunisia-win-the-2026-fifa-world-cup-165",
+      "volume": 27219934.43068597,
+      "liquidity": 10160375.36125,
+      "updatedAt": "2026-05-28T02:14:20.357896Z"
+    },
+    {
+      "team": "Australia",
+      "probability": 0.0015,
+      "oddsBps": 6666667,
+      "question": "Will Australia win the 2026 FIFA World Cup?",
+      "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+      "volume": 28543767.694567796,
+      "liquidity": 9045893.8014,
+      "updatedAt": "2026-05-28T02:12:57.361613Z"
+    },
+    {
+      "team": "New Zealand",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will New Zealand win the 2026 FIFA World Cup?",
+      "slug": "will-new-zealand-win-the-2026-fifa-world-cup-635",
+      "volume": 35027977.97064518,
+      "liquidity": 9769901.16373,
+      "updatedAt": "2026-05-28T02:15:07.727954Z"
+    },
+    {
+      "team": "Haiti",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Haiti win the 2026 FIFA World Cup?",
+      "slug": "will-haiti-win-the-2026-fifa-world-cup",
+      "volume": 20016692.77882009,
+      "liquidity": 10390845.03208,
+      "updatedAt": "2026-05-28T02:16:04.490576Z"
+    },
+    {
+      "team": "Jordan",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Jordan win the 2026 FIFA World Cup?",
+      "slug": "will-jordan-win-the-2026-fifa-world-cup-233",
+      "volume": 30291573.761882782,
+      "liquidity": 10209741.57463,
+      "updatedAt": "2026-05-28T02:13:02.980159Z"
+    },
+    {
+      "team": "Curaçao",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Curaçao win the 2026 FIFA World Cup?",
+      "slug": "will-curaao-win-the-2026-fifa-world-cup",
+      "volume": 40268484.17691622,
+      "liquidity": 9917673.22959,
+      "updatedAt": "2026-05-28T02:12:06.859551Z"
+    },
+    {
+      "team": "Uzbekistan",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Uzbekistan win the 2026 FIFA World Cup?",
+      "slug": "will-uzbekistan-win-the-2026-fifa-world-cup-773",
+      "volume": 45542351.44141759,
+      "liquidity": 8119605.48729,
+      "updatedAt": "2026-05-28T02:16:12.485317Z"
+    },
+    {
+      "team": "Panama",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Panama win the 2026 FIFA World Cup?",
+      "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
+      "volume": 17422872.37575688,
+      "liquidity": 10590581.30003,
+      "updatedAt": "2026-05-28T02:15:46.973276Z"
+    },
+    {
+      "team": "Iraq",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Iraq win the 2026 FIFA World Cup?",
+      "slug": "will-iraq-win-the-2026-fifa-world-cup",
+      "volume": 16353549.098710928,
+      "liquidity": 10595298.1724,
+      "updatedAt": "2026-05-28T02:12:20.889575Z"
+    },
+    {
+      "team": "South Africa",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will South Africa win the 2026 FIFA World Cup?",
+      "slug": "will-south-africa-win-the-2026-fifa-world-cup",
+      "volume": 31344038.44789426,
+      "liquidity": 9117709.06384,
+      "updatedAt": "2026-05-28T02:14:21.628725Z"
+    },
+    {
+      "team": "DR Congo",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Congo DR win the 2026 FIFA World Cup?",
+      "slug": "will-congo-dr-win-the-2026-fifa-world-cup",
+      "volume": 23207966.84078797,
+      "liquidity": 4597263.52589,
+      "updatedAt": "2026-05-28T02:14:35.460158Z"
+    },
+    {
+      "team": "Cape Verde",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Cape Verde win the 2026 FIFA World Cup?",
+      "slug": "will-cape-verde-win-the-2026-fifa-world-cup",
+      "volume": 27409773.15516404,
+      "liquidity": 10292544.74051,
+      "updatedAt": "2026-05-28T02:13:57.525385Z"
+    },
+    {
+      "team": "Qatar",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Qatar win the 2026 FIFA World Cup?",
+      "slug": "will-qatar-win-the-2026-fifa-world-cup",
+      "volume": 29090536.25633185,
+      "liquidity": 10345870.0288,
+      "updatedAt": "2026-05-28T02:14:38.027544Z"
+    },
+    {
+      "team": "Saudi Arabia",
+      "probability": 0.0005,
+      "oddsBps": 20000000,
+      "question": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+      "slug": "will-saudi-arabia-win-the-2026-fifa-world-cup",
+      "volume": 32098667.343883723,
+      "liquidity": 9463184.82273,
+      "updatedAt": "2026-05-28T02:14:43.934892Z"
+    }
+  ]
+}

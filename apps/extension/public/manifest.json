@@ -1,0 +1,64 @@
+{
+  "manifest_version": 3,
+  "name": "World-Cup-XLayer-Copilot",
+  "description": "Watch World Cup matches with AI analysis, replay understanding, data context, and X Layer market signals.",
+  "version": "0.1.0",
+  "minimum_chrome_version": "116",
+  "action": {
+    "default_title": "World-Cup-XLayer-Copilot",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "assets/background.js",
+    "type": "module"
+  },
+  "side_panel": {
+    "default_path": "side-panel.html"
+  },
+  "options_page": "options.html",
+  "permissions": [
+    "activeTab",
+    "offscreen",
+    "sidePanel",
+    "scripting",
+    "storage",
+    "tabCapture",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://api.openai.com/*",
+    "https://*.openai.com/*",
+    "https://v3.football.api-sports.io/*",
+    "https://api-football-v1.p.rapidapi.com/*",
+    "https://api.football-data.org/*",
+    "https://dashscope.aliyuncs.com/*",
+    "https://dashscope-intl.aliyuncs.com/*",
+    "https://api.groq.com/*",
+    "https://api.deepgram.com/*",
+    "https://generativelanguage.googleapis.com/*",
+    "https://api.deepseek.com/*",
+    "https://openrouter.ai/*",
+    "https://api.x.ai/*",
+    "https://api.moonshot.cn/*",
+    "https://api.moonshot.ai/*",
+    "https://open.bigmodel.cn/*",
+    "https://api.hunyuan.cloud.tencent.com/*",
+    "https://*.tencentcloudapi.com/*",
+    "https://ark.cn-beijing.volces.com/*",
+    "https://*.volces.com/*",
+    "https://*.volcengineapi.com/*",
+    "https://*.bytedanceapi.com/*",
+    "http://kr.maxfugui.top/*",
+    "https://rpc.xlayer.tech/*",
+    "https://xlayerrpc.okx.com/*",
+    "https://raw.githubusercontent.com/*",
+    "https://*.github.io/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["assets/content-script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

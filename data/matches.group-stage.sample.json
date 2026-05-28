@@ -1,0 +1,18 @@
+[
+  {
+    "matchId": "2026-group-a-mexico-south-africa",
+    "teamA": "Mexico",
+    "teamB": "South Africa",
+    "stage": "Group A",
+    "closeTimeUtc": "2026-06-11T19:00:00Z",
+    "polymarketQuery": "Mexico South Africa 2026 World Cup"
+  },
+  {
+    "matchId": "2026-group-b-canada-bosnia-herzegovina",
+    "teamA": "Canada",
+    "teamB": "Bosnia & Herzegovina",
+    "stage": "Group B",
+    "closeTimeUtc": "2026-06-12T19:00:00Z",
+    "polymarketQuery": "Canada Bosnia Herzegovina 2026 World Cup"
+  }
+]
