@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "World-Cup-XLayer-Copilot",
   "description": "Watch World Cup matches with AI analysis, replay understanding, data context, and X Layer market signals.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minimum_chrome_version": "116",
   "action": {
     "default_title": "World-Cup-XLayer-Copilot",
