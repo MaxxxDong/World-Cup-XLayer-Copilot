@@ -17,5 +17,6 @@ Thumbs.db
 .vite/
 .vercel/
 docs/superpowers/
+marketing/
 marketing/demo-video/frames/
 marketing/demo-video/**/*.wav

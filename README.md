@@ -119,9 +119,6 @@ npm run check:extension
 - [市场规则](docs/MARKET_RULES.md)
 - [模型供应商预设](docs/PROVIDER_PRESETS.md)
 - [OKX / X Layer 知识库](docs/OKX_KNOWLEDGE_BASE.md)
-- [Twitter / X 文案](marketing/twitter/twitter-copy.md)
-- [Demo 视频口播与网页](marketing/demo-video/)
-- [9:16 海报素材](marketing/posters/)
 
 ## License
 
